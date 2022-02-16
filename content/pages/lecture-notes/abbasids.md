@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 5. The Splendors of the Abbasids
 uid: 44e81cb2-d4e8-4c7c-2702-9c303dcd2ad5
@@ -21,7 +25,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="44e81cb2-d4e8-4c7c-2702-9c303dcd2ad5_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="44e81cb2-d4e8-4c7c-2702-9c303dcd2ad5_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="9c375640dbef09160df26f4778fbaa06_5022.jpg" data-ngdesc="Plan of Abu Jafar al-Mansur Mosque, 894" text="Plan of Abu Jafar al-Mansur Mosque, 894" >}}
 {{< image-gallery-item href="b7e6bf4e9f42e71c28e165bf049fbd10_1014.jpg" data-ngdesc="A general view of the mosque of al-Mutawakkil showing the external wall with semi-circular towers." text="A general view of the mosque of al-Mutawakkil showing the external wall with semi-circular towers." >}}
 {{< image-gallery-item href="e5952ac2bc5bee8cfa355753291d1b47_1017.jpg" data-ngdesc="The Mosque of Ibn-Tulun: A general view of the mosque with the fountain dome in the center." text="The Mosque of Ibn-Tulun: A general view of the mosque with the fountain dome in the center." >}}

@@ -6,12 +6,17 @@ description: 'The Madrasa al-Mustansiriyya in Baghdad (finished 1233): a late Ab
   of Sunni jurisprudence and in hadith (Prophet''s traditions), and students were
   lodged in separate cells on two floors. The madrasa''s choice location and pronounced
   monumentality reflect its high caliphal patronage.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/ec90361cc8261c6dff63d45284e38248_1071thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/ec90361cc8261c6dff63d45284e38248_1071thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 1071thumbnail.jpg
 uid: ec90361c-c826-1c6d-ff63-d45284e38248

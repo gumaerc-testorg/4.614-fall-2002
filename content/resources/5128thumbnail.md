@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/5f86f9262fe3b464ce49713738af80b9_5128thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/5f86f9262fe3b464ce49713738af80b9_5128thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 5128thumbnail.jpg
 uid: 5f86f926-2fe3-b464-ce49-713738af80b9

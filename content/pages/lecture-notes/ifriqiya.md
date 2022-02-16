@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '6. Religious Monuments of the West: Ifriqiya and Spain'
 uid: 767bd16d-d3e7-53b6-f2ab-8997da1b2c8a
@@ -32,7 +36,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="767bd16d-d3e7-53b6-f2ab-8997da1b2c8a_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="767bd16d-d3e7-53b6-f2ab-8997da1b2c8a_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="c0ff5667bf888281eaac35f78b7e55d1_1034.jpg" data-ngdesc="The Masjid (or Musalla) of Bab Mardum: A view of the façade of the musalla with the interlacing arches." text="The Masjid (or Musalla) of Bab Mardum: A view of the façade of the musalla with the interlacing arches." >}}
 {{< image-gallery-item href="730d781927f23e36955db10dca64619a_1028.jpg" data-ngdesc="The Great Mosque of Cordoba: A view of the mosque with the minaret tower on the left and the cathedral of Charles V in the middle." text="The Great Mosque of Cordoba: A view of the mosque with the minaret tower on the left and the cathedral of Charles V in the middle." >}}
 {{< image-gallery-item href="796399b166ad6277cf0679b15bc989e2_1030.jpg" data-ngdesc="The Great Mosque of Cordoba: An aerial view of the mosques prayer hall, showing the cathedral rising through its ceiling." text="The Great Mosque of Cordoba: An aerial view of the mosques prayer hall, showing the cathedral rising through its ceiling." >}}

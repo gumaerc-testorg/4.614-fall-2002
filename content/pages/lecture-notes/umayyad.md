@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '4. Umayyad Grandeur: First Imperial Expressions'
 uid: f624ec8c-bd95-2ad4-03a4-e7dc821336fc
@@ -37,7 +41,7 @@ Decoration of Mosques:
 
 Monuments
 ---------
-{{< image-gallery id="f624ec8c-bd95-2ad4-03a4-e7dc821336fc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="f624ec8c-bd95-2ad4-03a4-e7dc821336fc_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="bfc23b2abcdb0c70059964ca704d85fd_1005.jpg" data-ngdesc="Aerial view of the Dome of the Rock in the middle of the Haram al-Sharif." text="Aerial view of the Dome of the Rock in the middle of the Haram al-Sharif." >}}
 {{< image-gallery-item href="6f07f18e3b2359a71d6f207f50881462_1006.jpg" data-ngdesc="The Dome of the Rock, 692." text="The Dome of the Rock, 692." >}}
 {{< image-gallery-item href="f4eb01c848246c2129d1f577c8f5aaaa_1007.jpg" data-ngdesc="View of the interior showing the inner ambulatory arcade." text="View of the interior showing the inner ambulatory arcade." >}}

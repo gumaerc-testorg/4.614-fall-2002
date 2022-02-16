@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 9. The Great Seljuqs, the Sunni Revival, and the Four-Iwan Plan
 uid: d2e28b21-fe48-7473-1b36-2f0315294a4c
@@ -24,7 +28,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="d2e28b21-fe48-7473-1b36-2f0315294a4c_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="d2e28b21-fe48-7473-1b36-2f0315294a4c_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="68ddb2bea0fe6afdcd0c5f6ff5a0a0f1_1062.jpg" data-ngdesc="The Great Mosque of Diyarbakir, facade of the eastern portico onto the courtyard." text="The Great Mosque of Diyarbakir, facade of the eastern portico onto the courtyard." >}}
 {{< image-gallery-item href="6a1ab31f54f70138a86b8cc62a2aa72b_1063.jpg" data-ngdesc="The Great Mosque of Diyarbakir, detail of the cornice and the inscription band." text="The Great Mosque of Diyarbakir, detail of the cornice and the inscription band." >}}
 {{< image-gallery-item href="70b7650300ac4b9e961c40949d13fffd_1059.jpg" data-ngdesc="The Masjid-i Jomeh at Isfahan, view of two iwans from the courtyard." text="The Masjid-i Jomeh at Isfahan, view of two iwans from the courtyard." >}}

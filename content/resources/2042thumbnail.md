@@ -6,12 +6,17 @@ description: The Corniche Mosque, Jedda, Saudi Arabia (1986). One of a series of
   to create plastic, sculpture-like structures. The results are always visually pleasing,
   but somewhat disturbing in their indifference toward the disparate, and sometimes
   clashing, traditions from which they were copied.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/c230d1266792bfe26549ce1ffadadf5c_2042thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/c230d1266792bfe26549ce1ffadadf5c_2042thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 2042thumbnail.jpg
 uid: c230d126-6792-bfe2-6549-ce1ffadadf5c

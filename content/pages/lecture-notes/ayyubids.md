@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 11. Architecture of the Ayyubids and Mamluks
 uid: 692c4bde-ade9-f330-0bce-5abcb5e76923
@@ -23,7 +27,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="692c4bde-ade9-f330-0bce-5abcb5e76923_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="692c4bde-ade9-f330-0bce-5abcb5e76923_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="0f6d0bc11172aa5e66f7596b1ed818c3_3023.jpg" data-ngdesc="Contemporary view with the dome and minaret and the shops hiding the facade." text="Contemporary view with the dome and minaret and the shops hiding the facade." >}}
 {{< image-gallery-item href="658ea7f8cbc755e3b232271df472ba47_1076.jpg" data-ngdesc="The Mosque of Sultan al-Zahir Baybars in Cairo, general view." text="The Mosque of Sultan al-Zahir Baybars in Cairo, general view." >}}
 {{< image-gallery-item href="f549e88e84307a24db1d1d07add0c8e8_SLD-148.jpg" data-ngdesc="The Mosque of Sultan al-Zahir Baybars in Cairo, view of the Western Portal." text="The Mosque of Sultan al-Zahir Baybars in Cairo, view of the Western Portal." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 20. XIXth Century Religious Architecture
 uid: 90f389b9-0134-35a5-dce9-38554b17d599
@@ -17,7 +21,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="90f389b9-0134-35a5-dce9-38554b17d599_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="90f389b9-0134-35a5-dce9-38554b17d599_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="4ca6590dc1811a1638171057da54f91f_2024.jpg" data-ngdesc="The Nuruosmaniye Mosque, Istanbul: General view of the single domed mosque with its two slender minarets." text="The Nuruosmaniye Mosque, Istanbul: General view of the single domed mosque with its two slender minarets." >}}
 {{< image-gallery-item href="163e4d3bdb79e07fefcb8f9a864af34a_2025.jpg" data-ngdesc="The Nuruosmaniye Mosque, Istanbul: View of the horseshoe-shaped frontal court of the mosque." text="The Nuruosmaniye Mosque, Istanbul: View of the horseshoe-shaped frontal court of the mosque." >}}
 {{< image-gallery-item href="dedf283ee99ad2496b1ac850ea49c49c_2026.jpg" data-ngdesc="The Nuruosmaniye Mosque, Istanbul: The highly ornamented Baroque fountain at the entrance of the mosque." text="The Nuruosmaniye Mosque, Istanbul: The highly ornamented Baroque fountain at the entrance of the mosque." >}}

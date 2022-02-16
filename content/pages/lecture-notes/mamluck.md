@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 14. Late Mamluk Religious Architecture
 uid: ea828910-b03a-df94-de80-52255faf084b
@@ -19,7 +23,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="ea828910-b03a-df94-de80-52255faf084b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="ea828910-b03a-df94-de80-52255faf084b_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="e7a4c45e055c92abbd08d801538a8b64_1101.jpg" data-ngdesc="The Mosque of Sultan Hasan, general view with mausoleum in front." text="The Mosque of Sultan Hasan, general view with mausoleum in front." >}}
 {{< image-gallery-item href="01ba3e9b21ec891bde8be23ec300a4ba_1102.jpg" data-ngdesc="The monumental portal of Sultan Hasan with its muqarnas conch." text="The monumental portal of Sultan Hasan with its muqarnas conch." >}}
 {{< image-gallery-item href="bb5c8362a931ebe3c16b5157063ee531_1103.jpg" data-ngdesc="The Mosque of Sultan Hasan: An intricate carved stone medallion on the portal of the Mosque." text="The Mosque of Sultan Hasan: An intricate carved stone medallion on the portal of the Mosque." >}}

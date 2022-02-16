@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 16. Religious Architecture of Anatolia (14th-15th Century)
 uid: 65c4fb06-c40d-5838-34ad-aaf1aa337015
@@ -23,7 +27,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="65c4fb06-c40d-5838-34ad-aaf1aa337015_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="65c4fb06-c40d-5838-34ad-aaf1aa337015_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="75a440c24c4c5ef5887d7bbfb07d8509_1125.jpg" data-ngdesc="General View of the restored Yesil Cami at Iznik." text="General View of the restored Yesil Cami at Iznik." >}}
 {{< image-gallery-item href="dc39a87acbb78449b837f36c2379de3b_1132.jpg" data-ngdesc="Üç Serefeli Cami at Edirne: Detail of the base of the northwestern minaret with its spiral stone pattern called Burmali." text="Üç Serefeli Cami at Edirne: Detail of the base of the northwestern minaret with its spiral stone pattern called Burmali." >}}
 {{< image-gallery-item href="7fef25f04696c6d41848b347897d6db7_1128.jpg" data-ngdesc="Southern facade of the Yesil Cami (Mosque)." text="Southern facade of the Yesil Cami (Mosque)." >}}

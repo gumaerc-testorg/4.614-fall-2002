@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 18. The Maydan-i-Shah in Isfahan, the Safavid Capital
 uid: f5dbe8b1-db8e-7a13-de7b-240a1c8d91e6
@@ -19,7 +23,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="f5dbe8b1-db8e-7a13-de7b-240a1c8d91e6_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="f5dbe8b1-db8e-7a13-de7b-240a1c8d91e6_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="2c28fa71761ca1d8a3fb0206af569c61_1144.jpg" data-ngdesc="The Mosque of Shaykh Lutfallah: View of the Mosques facade on the Maydan-i-Shah as seen from the balcony of the Ali Qapu." text="The Mosque of Shaykh Lutfallah: View of the Mosques facade on the Maydan-i-Shah as seen from the balcony of the Ali Qapu." >}}
 {{< image-gallery-item href="498574aa9d781eecb2492e186b58410b_1145.jpg" data-ngdesc="The Mosque of Shaykh Lutfallah: The richly tiled portal of the Mosque topped with the off-axis golden tiled dome." text="The Mosque of Shaykh Lutfallah: The richly tiled portal of the Mosque topped with the off-axis golden tiled dome." >}}
 {{< image-gallery-item href="16c85eb1dc1be0dd163e4277fcd87ca2_1146.jpg" data-ngdesc="The Mosque of Shaykh Lutfallah: The tiled muqarnas conch above the mosque entrance." text="The Mosque of Shaykh Lutfallah: The tiled muqarnas conch above the mosque entrance." >}}

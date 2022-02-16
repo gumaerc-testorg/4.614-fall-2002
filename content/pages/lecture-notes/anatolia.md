@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 10. Anatolia, Iraq, and Syria (11th-13th Century)
 uid: 1dded7ed-926e-1cf3-9b6b-83ef7580e73e
@@ -19,7 +23,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="1dded7ed-926e-1cf3-9b6b-83ef7580e73e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="1dded7ed-926e-1cf3-9b6b-83ef7580e73e_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="3ba1fbf41b31db916a36769663cda6df_1064.jpg" data-ngdesc="The Madrasa of Nur al-Din, interior view of the muqarnas dome." text="The Madrasa of Nur al-Din, interior view of the muqarnas dome." >}}
 {{< image-gallery-item href="ab95dd9bb8dab7760d89d098cb836475_1066.jpg" data-ngdesc="The Great Mosque of Dunaysir, facade of the prayer hall." text="The Great Mosque of Dunaysir, facade of the prayer hall." >}}
 {{< image-gallery-item href="4b7fa2f31f1ec9ba690dab4e07c7bd8d_1067.jpg" data-ngdesc="The Great Mosque of Dunaysir, interior view with mihrab and squinch." text="The Great Mosque of Dunaysir, interior view with mihrab and squinch." >}}

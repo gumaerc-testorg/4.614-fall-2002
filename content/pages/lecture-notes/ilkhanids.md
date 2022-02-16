@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 12. Religious Architecture of the Ilkhanids
 uid: f4bb2f9a-df48-62e7-801c-f667ac835a4e
@@ -17,7 +21,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="f4bb2f9a-df48-62e7-801c-f667ac835a4e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="f4bb2f9a-df48-62e7-801c-f667ac835a4e_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="bd5690b4d168f98e66611e7a1cc9c126_1082.jpg" data-ngdesc="The Mihrab of Sultan Oljeitu at the Isfahan Masjid-i-Jomeh." text="The Mihrab of Sultan Oljeitu at the Isfahan Masjid-i-Jomeh." >}}
 {{< image-gallery-item href="18c478446285ccd4289e8c62d780fdea_1083.jpg" data-ngdesc="The Mosque of Ali Shah in Tabriz, general view drawn by Pascal Coste in the middle of the 19th century." text="The Mosque of Ali Shah in Tabriz, general view drawn by Pascal Coste in the middle of the 19th century." >}}
 {{< image-gallery-item href="69e65e86f2cd9675a23bde4c9fcc5c65_1084.jpg" data-ngdesc="The Mosque of Ali Shah in Tabriz, view of the back of the massive iwan." text="The Mosque of Ali Shah in Tabriz, view of the back of the massive iwan." >}}

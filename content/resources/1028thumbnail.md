@@ -6,12 +6,17 @@ description: Probably the most exquisite mosque of western Islamic land, founded
   was extended to the west). The Mosque has an intricate hypostyle arrangement with
   double-tiered, arched supports, ribbed domes above the maqsura, and a unique mihrab-chamber
   with mosaic decoration.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/6ca0cf60e2caa48715825ec1869b5784_1028thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/6ca0cf60e2caa48715825ec1869b5784_1028thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 1028thumbnail.jpg
 uid: 6ca0cf60-e2ca-a487-1582-5ec1869b5784

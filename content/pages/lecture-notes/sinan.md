@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '17. Classical Ottoman Architecture: The Age of Sinan'
 uid: 85f7a84c-42ef-44e5-1640-98b3e4e33e92
@@ -17,7 +21,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="85f7a84c-42ef-44e5-1640-98b3e4e33e92_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="85f7a84c-42ef-44e5-1640-98b3e4e33e92_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="6fbaff60d3cd3ed7f473ddddcb0b37d3_1133.jpg" data-ngdesc="The Church of Hagia Sofia (Ayasofia): View of the Church from the southwest." text="The Church of Hagia Sofia (Ayasofia): View of the Church from the southwest." >}}
 {{< image-gallery-item href="4eb7ee23014e6c80bcd562a821df9270_1156.jpg" data-ngdesc="The Church of Hagia Sofia (Ayasofia): Mihrab area." text="The Church of Hagia Sofia (Ayasofia): Mihrab area." >}}
 {{< image-gallery-item href="5bc489dd50e1725c6075a569d8ab49f5_1134.jpg" data-ngdesc="Central Dome Mosques Based on Four Supports with Two or More Half-Domes: Aerial view of the Suleymaniye Kulliye from the southwest." text="Central Dome Mosques Based on Four Supports with Two or More Half-Domes: Aerial view of the Suleymaniye Kulliye from the southwest." >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 19. Mughal Mausolea
 uid: e2cb02f6-a1f1-4dfc-4ee9-a2014b6a7cc9
@@ -25,7 +29,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="e2cb02f6-a1f1-4dfc-4ee9-a2014b6a7cc9_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="e2cb02f6-a1f1-4dfc-4ee9-a2014b6a7cc9_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="eae49e5bb2e454d291e47a4d3af03bc7_2013.jpg" data-ngdesc="The Taj Mahal in Agra: View of the mausoleum across the Yamuna River." text="The Taj Mahal in Agra: View of the mausoleum across the Yamuna River." >}}
 {{< image-gallery-item href="40c9f33df573752410c43811d2e4a2bc_2015.jpg" data-ngdesc="The Taj Mahal in Agra: View of the Mausoleum on its plinth from the main central approach through the garden." text="The Taj Mahal in Agra: View of the Mausoleum on its plinth from the main central approach through the garden." >}}
 {{< image-gallery-item href="61402af26c68a63344041b14eaf4fcdd_2014.jpg" data-ngdesc="The Taj Mahal in Agra: View of the side octagonal chamber of the mausoleum and one of the four minarets." text="The Taj Mahal in Agra: View of the side octagonal chamber of the mausoleum and one of the four minarets." >}}

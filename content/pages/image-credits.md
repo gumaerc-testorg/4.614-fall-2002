@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Credits
 uid: 8908d535-8bc0-1186-79ae-fe1d9a4e4986
 ---

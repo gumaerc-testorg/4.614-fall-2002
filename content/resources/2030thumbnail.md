@@ -8,12 +8,17 @@ description: 'The Mosque of Muhammad Ali Pasha, Cairo Citadel. Built between 183
   mosque by the French architect Pascal Coste was to apply a neo-Mamluk style. Coste
   designed two mosques for Muhammad Ali: one in Alexandria and the Citadel mosque.
   Neither was ever built.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/8fb6c08832543c686e57085349e0a260_2030thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8fb6c08832543c686e57085349e0a260_2030thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 2030thumbnail.jpg
 uid: 8fb6c088-3254-3c68-6e57-085349e0a260

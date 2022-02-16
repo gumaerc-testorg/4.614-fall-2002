@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 15. Religious Architecture of the Timurids
 uid: 42c455d6-0af6-1c55-3b81-c6a08eb7a2e2
@@ -21,7 +25,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="42c455d6-0af6-1c55-3b81-c6a08eb7a2e2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="42c455d6-0af6-1c55-3b81-c6a08eb7a2e2_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="2e3fee2acd4682e1d6f463cdf3f94dbd_1115.jpg" data-ngdesc="General view of the Bibi-Khanum Mosque as it stood in 1995 with the halt of the Soviet large-scale restoration project." text="General view of the Bibi-Khanum Mosque as it stood in 1995 with the halt of the Soviet large-scale restoration project." >}}
 {{< image-gallery-item href="fe45596fa60a2fc096dbd396c072f425_1114.jpg" data-ngdesc="The Bibi-Khanum Mosque in Samarqand: View of one of the two ribbed and tiled side domes of the mosque after it has been completely restored." text="The Bibi-Khanum Mosque in Samarqand: View of one of the two ribbed and tiled side domes of the mosque after it has been completely restored." >}}
 {{< image-gallery-item href="384cea9955537927b7d428e0a91921a7_1116.jpg" data-ngdesc="The Gur-i-Amir Mausoleum in Samarqand: General view of the mausoleum with its tiled portal and massive ribbed and tiled dome." text="The Gur-i-Amir Mausoleum in Samarqand: General view of the mausoleum with its tiled portal and massive ribbed and tiled dome." >}}

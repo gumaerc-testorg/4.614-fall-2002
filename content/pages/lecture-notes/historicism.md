@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 21. Historicism and Religious Architecture in the Late Twentieth Century
 uid: d9d5e204-1248-2d82-6e7c-7391ae4e322b
@@ -15,7 +19,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="d9d5e204-1248-2d82-6e7c-7391ae4e322b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="d9d5e204-1248-2d82-6e7c-7391ae4e322b_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="040509ecac73d68b90c9baf530e8b520_5094.jpg" data-ngdesc="National Assembly Mosque, Ankara, Turkey: A view from the North of the mosque." text="National Assembly Mosque, Ankara, Turkey: A view from the North of the mosque." >}}
 {{< image-gallery-item href="4d3d09140ca7b8aa0355eba4dab6dd6c_5095.jpg" data-ngdesc="National Assembly Mosque, Ankara, Turkey: The qibla facade of the mosque showing the transparent mihrab." text="National Assembly Mosque, Ankara, Turkey: The qibla facade of the mosque showing the transparent mihrab." >}}
 {{< image-gallery-item href="cdf5eef529939e6220b64d9f36e64958_2038.jpg" data-ngdesc="The Great Mosque of Niono, Mali: General view of the Mosque showing the use of traditional decorative forms." text="The Great Mosque of Niono, Mali: General view of the Mosque showing the use of traditional decorative forms." >}}

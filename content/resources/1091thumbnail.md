@@ -4,12 +4,17 @@ description: The Mosque of Quwwat al-Islam (Might of Islam) (1193-99, 1220-29, a
   1316). Delhi's earliest congregational mosque started by Aybak, the first Mamluk
   sultan of Delhi. It shows the conflict between the Hindu building tradition and
   the architectural requirements of mosques. It was enlarged twice.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/1f975c27235deae40bef01fe0ef986d2_1091thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/1f975c27235deae40bef01fe0ef986d2_1091thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 1091thumbnail.jpg
 uid: 1f975c27-235d-eae4-0bef-01fe0ef986d2

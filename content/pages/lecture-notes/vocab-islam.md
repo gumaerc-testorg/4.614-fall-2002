@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 2. Vocabulary of Islamic Architecture
 uid: b1c87f3b-403d-8ee1-5082-aa965c555b89
@@ -35,7 +39,7 @@ Functional Typology of Religious Structures
 
 Monuments
 ---------
-{{< image-gallery id="b1c87f3b-403d-8ee1-5082-aa965c555b89_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="b1c87f3b-403d-8ee1-5082-aa965c555b89_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="62cfbb73c526eb74ce97f8f30cbb86d4_3005.jpg" data-ngdesc="Mihrab: A recess, mostly in the form of arched niche, in the qibla wall, facing the direction toward Mecca." text="Mihrab: A recess, mostly in the form of arched niche, in the qibla wall, facing the direction toward Mecca." >}}
 {{< image-gallery-item href="f32b439e0f5b5601e212525250d87cc4_3007.jpg" data-ngdesc="Minaret: A tower, circular, octagonal, or square in section, built next to or in a mosque, from which the Muslims are called to prayer." text="Minaret: A tower, circular, octagonal, or square in section, built next to or in a mosque, from which the Muslims are called to prayer." >}}
 {{< image-gallery-item href="f026f23a3916a90db47145287fb4c9e8_3006.jpg" data-ngdesc="Minbar: A pulpit near the mihrab, from which the prayer leader gives the sermon on Fridays." text="Minbar: A pulpit near the mihrab, from which the prayer leader gives the sermon on Fridays." >}}

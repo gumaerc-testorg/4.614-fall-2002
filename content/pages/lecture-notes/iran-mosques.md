@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 8. Mosques of Iran and Central Asia (8th-11th Century)
 uid: 4b315596-0d01-5a70-8a1b-b293c03b57e2
@@ -49,7 +53,7 @@ Samanids: dynasty which ruled part of former Sogdian territory from 819-1005; ca
 
 Monuments
 ---------
-{{< image-gallery id="4b315596-0d01-5a70-8a1b-b293c03b57e2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="4b315596-0d01-5a70-8a1b-b293c03b57e2_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="0146a6dcac6a9c98d390c6c51adfffb0_1054.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, general view." text="The Samanid Mausoleum in Bukhara, general view." >}}
 {{< image-gallery-item href="de46a14b0baa07306d0080bafa2b07e9_1052.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, detail of hazar-baf on the spandrel of the portal." text="The Samanid Mausoleum in Bukhara, detail of hazar-baf on the spandrel of the portal." >}}
 {{< image-gallery-item href="94349800a964099c9d772f1e23606018_1053.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, detail of the squinch." text="The Samanid Mausoleum in Bukhara, detail of the squinch." >}}

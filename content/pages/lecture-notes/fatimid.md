@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '7. The Fatimid Caliphate: A New Tradition and Old Forms'
 uid: 4882bd29-5828-5b3f-3de4-f7dfa398509d
@@ -30,7 +34,7 @@ Characteristics of Fatimid Mosque Architecture
 
 Monuments
 ---------
-{{< image-gallery id="4882bd29-5828-5b3f-3de4-f7dfa398509d_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="4882bd29-5828-5b3f-3de4-f7dfa398509d_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="71a14fc69b8f2ffba1bd9c57eb17241a_1036.jpg" data-ngdesc="Al-Azhar Mosque: View of the main facade of the mosque with, from left to right, the minarets of the madrasa al-Aqbughawiyya, of Qaytbay, and of al-Ghuri." text="Al-Azhar Mosque: View of the main facade of the mosque with, from left to right, the minarets of the madrasa al-Aqbughawiyya, of Qaytbay, and of al-Ghuri." >}}
 {{< image-gallery-item href="0e5046419338f33642739d59e0ed07af_SLD13.jpg" data-ngdesc="Al-Azhar Mosque: The original mihrab of the mosque discovered in 1930s." text="Al-Azhar Mosque: The original mihrab of the mosque discovered in 1930s." >}}
 {{< image-gallery-item href="7bb1b8cf584042ee9d6115c663da8f50_1037.jpg" data-ngdesc="Al-Hakim Mosque: View of the projecting entrance portal." text="Al-Hakim Mosque: View of the projecting entrance portal." >}}

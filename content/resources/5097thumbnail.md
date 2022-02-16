@@ -6,12 +6,17 @@ description: Mosque of Hassan II Casablanca, Morocco (1986-93). A gigantic mosqu
   on the idea that the architectural language of the past is the only legitimate one.
   The French architect, Michel Pinseau, was thus limited in his design to explorations
   of monumentality and opulence.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/446b434030f4bcb6d41087b8d953dd3f_5097thumbnail.jpg
+file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/446b434030f4bcb6d41087b8d953dd3f_5097thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Image
 title: 5097thumbnail.jpg
 uid: 446b4340-30f4-bcb6-d410-87b8d953dd3f
