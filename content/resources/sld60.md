@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: SLD60.jpg
 uid: 0dcf29bc-a7c5-1f02-511d-171a36d41b61

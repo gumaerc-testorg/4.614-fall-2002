@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 resourcetype: Image
 title: 1116thumbnail.jpg
 uid: f280486e-9026-5f78-8a38-458643d620c3

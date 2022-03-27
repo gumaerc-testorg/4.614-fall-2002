@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: '7. The Fatimid Caliphate: A New Tradition and Old Forms'
 parent_type: CourseSection
+parent_uid: 4882bd29-5828-5b3f-3de4-f7dfa398509d
 resourcetype: Image
 title: SLD6.jpg
 uid: 3238b00a-0f2f-da52-ccf7-de97562659d3

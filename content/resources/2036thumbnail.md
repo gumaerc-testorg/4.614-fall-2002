@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 88b45685-0117-14a3-24a9-7fff90d57a08
 resourcetype: Image
 title: 2036thumbnail.jpg
 uid: 2ccf9c1b-3dde-b6bd-ea3a-fe57df37a6c2
