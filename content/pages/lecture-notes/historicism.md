@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 21. Historicism and Religious Architecture in the Late Twentieth Century
 uid: d9d5e204-1248-2d82-6e7c-7391ae4e322b
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/baroque)
+{{% resource_link 90f389b9-0134-35a5-dce9-38554b17d599 "Previous Lecture" %}}
 
 Concepts
 --------
@@ -41,7 +42,7 @@ Monuments
 
 **Sherefudin's White Mosque, Visoko, Bosnia**
 
-(1980). Designed by the architect Zlatko Ulgjen, it masterfully assimilates modern influences, especially Le Corbusier's Ronchamp Cathedral, and traditional [Ottoman]({{< baseurl >}}/pages/lecture-notes/glossary#ottomans) forms and elements. This mosque is firmly anchored in the present, but whose indebtness to its past is well-articulated.
+(1980). Designed by the architect Zlatko Ulgjen, it masterfully assimilates modern influences, especially Le Corbusier's Ronchamp Cathedral, and traditional {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ottoman" "#ottomans" %}} forms and elements. This mosque is firmly anchored in the present, but whose indebtness to its past is well-articulated.
 
 **The Corniche Mosque, Jedda, Saudi Arabia**
 

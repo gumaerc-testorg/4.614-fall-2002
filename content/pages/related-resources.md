@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources section provides a glossary of terms, and information
+  about Archnet and the Aga Khan Program.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,7 +13,7 @@ Glossary of Terms
 
 This glossary from the class offers explanations of terms that might be unfamiliar to students new to the study of the Islamic world.
 
-[Glossary]({{< baseurl >}}/pages/lecture-notes/glossary)
+{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Glossary" %}}
 
 Archnet
 -------

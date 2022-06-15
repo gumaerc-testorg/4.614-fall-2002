@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 3. The Architecture of the Early Mosques
 uid: efafd633-1220-a5fe-cc3b-7e3d2a7ac297
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/vocab-islam) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/umayyad)
+{{% resource_link b1c87f3b-403d-8ee1-5082-aa965c555b89 "Previous Lecture" %}} | {{% resource_link f624ec8c-bd95-2ad4-03a4-e7dc821336fc "Next Lecture" %}}
 
 Concepts
 --------

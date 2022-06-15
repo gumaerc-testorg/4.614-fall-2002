@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 15. Religious Architecture of the Timurids
 uid: 42c455d6-0af6-1c55-3b81-c6a08eb7a2e2
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/mamluck) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/anatolia-turks)
+{{% resource_link ea828910-b03a-df94-de80-52255faf084b "Previous Lecture" %}} | {{% resource_link 65c4fb06-c40d-5838-34ad-aaf1aa337015 "Next Lecture" %}}
 
 Concepts
 --------
@@ -38,11 +39,11 @@ Monuments
 {{</ image-gallery >}}
 **The Bibi-Khanum Mosque in Samarqand**
 
-(1399-1404). Popularly named after Timur's wife, this is the mosque he intended to be the royal monument. Its tall projecting portal, with its flanking [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) was repeated inside in the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) iwan. The mosque displays Timur's concern for monumental effect and theatrical arrangement.
+(1399-1404). Popularly named after Timur's wife, this is the mosque he intended to be the royal monument. Its tall projecting portal, with its flanking {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} was repeated inside in the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} iwan. The mosque displays Timur's concern for monumental effect and theatrical arrangement.
 
 **The Gur-i-Amir Mausoleum in Samarqand**
 
-(1404). Initially a religious complex appropriated to build a tomb for Timur's grandson Muhammad Sultan, it became the burial place for Timur and his male descendants. It formed a part of a larger religious complex, and a later [madrasa]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa) abutted on its side. The double-shell dome achieves both an interior harmony and an exterior verticality.
+(1404). Initially a religious complex appropriated to build a tomb for Timur's grandson Muhammad Sultan, it became the burial place for Timur and his male descendants. It formed a part of a larger religious complex, and a later {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasa" "#madrasa" %}} abutted on its side. The double-shell dome achieves both an interior harmony and an exterior verticality.
 
 **The Shah-i Zinda Complex in Samarqand**
 

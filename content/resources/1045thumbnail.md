@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/092662d4ec7996458339ea8b3d160f28_1045thumbnail.jpg
+file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/092662d4ec7996458339ea8b3d160f28_1045thumbnail.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

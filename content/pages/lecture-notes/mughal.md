@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,12 +11,12 @@ title: 19. Mughal Mausolea
 uid: e2cb02f6-a1f1-4dfc-4ee9-a2014b6a7cc9
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/safavids) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/baroque)
+{{% resource_link f5dbe8b1-db8e-7a13-de7b-240a1c8d91e6 "Previous Lecture" %}} | {{% resource_link 90f389b9-0134-35a5-dce9-38554b17d599 "Next Lecture" %}}
 
 Concepts
 --------
 
-**The Mughals of India:** A dynasty whose founder Babur (1526-30) descended from the most illustrious Mongol conquerors, Ghenkis Khan and [Timur]({{< baseurl >}}/pages/lecture-notes/glossary#timur), hence the name. They ruled most of India for three centuries before direct British rule was set in 1858. The period between Babur's reign and 1707, when five of his descendants, Humayun, Akbar, Jahangir, Shah Jahan, and Aurangazeb ruled is considered the age of the Great Mughals.
+**The Mughals of India:** A dynasty whose founder Babur (1526-30) descended from the most illustrious Mongol conquerors, Ghenkis Khan and {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Timur" "#timur" %}}, hence the name. They ruled most of India for three centuries before direct British rule was set in 1858. The period between Babur's reign and 1707, when five of his descendants, Humayun, Akbar, Jahangir, Shah Jahan, and Aurangazeb ruled is considered the age of the Great Mughals.
 
 **Chahar Bagh:** (Persian, four gardens) Quadripartite garden enclosure with a cruciform plan.
 
@@ -42,7 +43,7 @@ Monuments
 {{</ image-gallery >}}
 **The Taj Mahal in Agra**
 
-(1632-54). (Crown Palace) The majestic mausoleum built for the empress Mumtaz Mahal by her husband Shah Jahan. Iconographically highly charged, it represents the epitome of Islamic mausolea. Its plan is that of a Hasht Bihisht with four [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) framing it on the four sides of its square platform.
+(1632-54). (Crown Palace) The majestic mausoleum built for the empress Mumtaz Mahal by her husband Shah Jahan. Iconographically highly charged, it represents the epitome of Islamic mausolea. Its plan is that of a Hasht Bihisht with four {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} framing it on the four sides of its square platform.
 
 **The Tomb of Akbar at Sikandra**
 
@@ -54,4 +55,4 @@ Monuments
 
 **The Tomb of Itimad al-Dawla in Agra**
 
-(1628). A low pavilion over a square plinth, situated in the center of a chahar bagh and surrounded by four [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) at the four corners. This is the first monument to employ white marble and pietra dura.
+(1628). A low pavilion over a square plinth, situated in the center of a chahar bagh and surrounded by four {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} at the four corners. This is the first monument to employ white marble and pietra dura.

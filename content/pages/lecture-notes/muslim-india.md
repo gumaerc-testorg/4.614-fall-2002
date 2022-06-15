@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 13. Religious Architecture of the Muslim Dynasties in India (12th-15th Ce
 uid: b4bcb52b-9307-183f-d69d-8b657a949c88
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/ilkhanids) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/mamluck)
+{{% resource_link f4bb2f9a-df48-62e7-801c-f667ac835a4e "Previous Lecture" %}} | {{% resource_link ea828910-b03a-df94-de80-52255faf084b "Next Lecture" %}}
 
 Concepts
 --------
@@ -59,7 +60,7 @@ Monuments
 
 **The Congregational Mosque at Jaunpur**
 
-(1394-1479). This mosque is influenced by Tughluqid forms, but its screen in the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) façade is transformed into a huge propylon.
+(1394-1479). This mosque is influenced by Tughluqid forms, but its screen in the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} façade is transformed into a huge propylon.
 
 **The Tomb of Ghiyath al-Din Tughluq at Delhi-Tughluqabad**
 

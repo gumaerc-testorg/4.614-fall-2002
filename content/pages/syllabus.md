@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section provides information about class requirements and
+  required texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,4 +36,4 @@ George Michell, ed. _Architecture of the Islamic World: Its History and Social M
 
 Robert Hillenbrand. _Islamic Art and Architecture._ London: Thames and Hudson, 1999.
 
-For the full reading list, please see the [readings]({{< baseurl >}}/pages/readings) section.
+For the full reading list, please see the {{% resource_link 24bea65d-3234-59f6-4687-b442c59d8228 "readings" %}} section.

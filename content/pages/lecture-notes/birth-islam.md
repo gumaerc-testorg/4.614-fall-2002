@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 1. The Birth of Islam
 uid: 6e9b9fdf-9094-16df-8feb-24b115207a03
 ---
 
-[Next Lecture]({{< baseurl >}}/pages/lecture-notes/vocab-islam)
+{{% resource_link b1c87f3b-403d-8ee1-5082-aa965c555b89 "Next Lecture" %}}
 
 Concepts
 --------
@@ -36,7 +37,7 @@ Monuments
 {{</ image-gallery >}}
 **Petra:** The Nabatean capital carved in the rock with hybrid Hellenistic sensitivities.
 
-**The Ka'ba in Mecca:** The center of worship and pilgrimage before Islam which became the axis mundi of Islam's conception of the universe and the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) towards which worshippers face when praying. Date of building unknown.
+**The Ka'ba in Mecca:** The center of worship and pilgrimage before Islam which became the axis mundi of Islam's conception of the universe and the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} towards which worshippers face when praying. Date of building unknown.
 
 **Palmyra:** A caravan city turned imperial center with heavy Roman influences.
 

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 5. The Splendors of the Abbasids
 uid: 44e81cb2-d4e8-4c7c-2702-9c303dcd2ad5
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/umayyad) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/ifriqiya)
+{{% resource_link f624ec8c-bd95-2ad4-03a4-e7dc821336fc "Previous Lecture" %}} | {{% resource_link 767bd16d-d3e7-53b6-f2ab-8997da1b2c8a "Next Lecture" %}}
 
 Concepts
 --------
@@ -19,7 +20,7 @@ Concepts
 
 **Dar al-Salam (the Abode of Peace):** The round city founded in 762 by al-Mansur (754-75), the second Abbasid caliph, to be his royal center on the western bank of the river Tigris. Its plan and symbolism were the result of a synthesis of many previous traditions. What started as the enclosed, round city of al-Mansur soon expanded on both banks of the river and its name reverted to that of the ancient name of the site, Baghdad.
 
-**Samarra:** The new capital city established by caliph al-Mu'tasim in 836 to house his growing army of Turkish slave-warriors (_[Mamluks]({{< baseurl >}}/pages/lecture-notes/glossary#mamluk)_) on the Tigris, 60 miles north of Baghdad. It developed into a conglomeration of secluded caliphal palaces and houses for the troops on a grandiose scale. The city remained capital of the Abbasid empire until 883, then it was abandoned and Baghdad regained its old position.
+**Samarra:** The new capital city established by caliph al-Mu'tasim in 836 to house his growing army of Turkish slave-warriors (_{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Mamluks" "#mamluk" %}}_) on the Tigris, 60 miles north of Baghdad. It developed into a conglomeration of secluded caliphal palaces and houses for the troops on a grandiose scale. The city remained capital of the Abbasid empire until 883, then it was abandoned and Baghdad regained its old position.
 
 **Al-Qata'i' (the wards or the fiefs):** the new settlement built north of Fustat on the site of the future Cairo by Ahmad ibn-Tulun, the Turkish governor of Egypt sent by the Abbasids.
 

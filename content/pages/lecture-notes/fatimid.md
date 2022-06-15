@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,27 +11,27 @@ title: '7. The Fatimid Caliphate: A New Tradition and Old Forms'
 uid: 4882bd29-5828-5b3f-3de4-f7dfa398509d
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/ifriqiya) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/iran-mosques)
+{{% resource_link 767bd16d-d3e7-53b6-f2ab-8997da1b2c8a "Previous Lecture" %}} | {{% resource_link 4b315596-0d01-5a70-8a1b-b293c03b57e2 "Next Lecture" %}}
 
 Concepts
 --------
 
 **{{< anchor "sects" >}}Major Sects{{< /anchor >}} of Islam**
 
-*   **The Sunnis:** from sunna (tradition or custom), those who adhere to the standard practice (understod to be of the Prophet). Sunnis are the majority of Muslims and follow four schools of jurisprudence: the Shafi'i, Hanafi, Maliki, and Hanbali. They accept the legitimacy of both the [Umayyads]({{< baseurl >}}/pages/lecture-notes/glossary#umayyad) and [Abbasids]({{< baseurl >}}/pages/lecture-notes/glossary#abbasids).
+*   **The Sunnis:** from sunna (tradition or custom), those who adhere to the standard practice (understod to be of the Prophet). Sunnis are the majority of Muslims and follow four schools of jurisprudence: the Shafi'i, Hanafi, Maliki, and Hanbali. They accept the legitimacy of both the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Umayyads" "#umayyad" %}} and {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Abbasids" "#abbasids" %}}.
 *   **The Shiites:** From shia (supporters), those who recognized 'Ali as the only legitimate imam (political and religious leader) after the Prophet, and rejected most other caliphs, especially the Umayyads. They developed into several sects which differed in the number of imams they recognized. Most important are:
-    *   **The Twelvers Imamis:** The majority of Shiites, they recognize twelve descendants of 'Ali. Most of Iran became Shiite in the sixteenth century under the [Safavids]({{< baseurl >}}/pages/lecture-notes/glossary#safavids).
+    *   **The Twelvers Imamis:** The majority of Shiites, they recognize twelve descendants of 'Ali. Most of Iran became Shiite in the sixteenth century under the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Safavids" "#safavids" %}}.
     *   **The Ismailis:** Recognize the first six imams, but differ with the Twelvers about the seventh, Ismail, hence their name.
-        *   **The Fatimids:** An Ismaili dynasty whose founder claimed descent from Fatima, the daughter of the Prophet and wife of 'Ali, and established a counter-caliphate in [Ifriqiya]({{< baseurl >}}/pages/lecture-notes/glossary#ifriqiya) (909-71), which was later expanded to include Egypt and southern Syria (969-1171).
+        *   **The Fatimids:** An Ismaili dynasty whose founder claimed descent from Fatima, the daughter of the Prophet and wife of 'Ali, and established a counter-caliphate in {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ifriqiya" "#ifriqiya" %}} (909-71), which was later expanded to include Egypt and southern Syria (969-1171).
 
 **Al-Qahira (Cairo):** The new capital city of Egypt established by the Fatimids upon their conquest of the country in 969 north of Fustat, the old capital.
 
 Characteristics of Fatimid Mosque Architecture
 ----------------------------------------------
 
-*   The use of projected portals and domes over [mihrabs]({{< baseurl >}}/pages/lecture-notes/glossary#mihrab) for ceremonial purposes.
+*   The use of projected portals and domes over {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "mihrabs" "#mihrab" %}} for ceremonial purposes.
 *   The use of keel-shaped arches in porticoes and arcades.
-*   The profusion of fine stucco decoration, especially in [mihrabs]({{< baseurl >}}/pages/lecture-notes/glossary#mihrab) and [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) walls.
+*   The profusion of fine stucco decoration, especially in {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "mihrabs" "#mihrab" %}} and {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} walls.
 
 Monuments
 ---------

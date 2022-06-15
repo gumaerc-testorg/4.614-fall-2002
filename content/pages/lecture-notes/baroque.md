@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,14 +11,14 @@ title: 20. XIXth Century Religious Architecture
 uid: 90f389b9-0134-35a5-dce9-38554b17d599
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/mughal) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/historicism)
+{{% resource_link e2cb02f6-a1f1-4dfc-4ee9-a2014b6a7cc9 "Previous Lecture" %}} | {{% resource_link d9d5e204-1248-2d82-6e7c-7391ae4e322b "Next Lecture" %}}
 
 Concepts
 --------
 
-**The Turkish Baroque Style:** The name given to the [Ottoman]({{< baseurl >}}/pages/lecture-notes/glossary#ottomans) architectural and decorative production from the mid eighteenth century until the third quarter of the nineteenth century. The style was concomitant with the gradual Westernization of the [Ottoman]({{< baseurl >}}/pages/lecture-notes/glossary#ottomans) elite's lifestyle and tastes is characterized by a profusion of curved, undulating motifs, imported European patterns, and unrestrained, extroverted plans.
+**The Turkish Baroque Style:** The name given to the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ottoman" "#ottomans" %}} architectural and decorative production from the mid eighteenth century until the third quarter of the nineteenth century. The style was concomitant with the gradual Westernization of the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ottoman" "#ottomans" %}} elite's lifestyle and tastes is characterized by a profusion of curved, undulating motifs, imported European patterns, and unrestrained, extroverted plans.
 
-**Neo-Islamic Styles:** The nineteenth century started with the first European military interventions in the Orient and ended with most of it under direct colonial rule. Architecture was affected by these new political realities and by the disciplinary developments in Europe where architecture had become an academic field with its rules and parameters. European styles began shaping the outlook of "Oriental" cities and the tastes of their inhabitants. Also European and European-trained designers became the masters of the building trades everywhere. These same professionals acted as the interpreters of the architectural heritage of the countries in which they worked. They documented, analyzed, and classified the structures they encountered, which permitted the introduction of these formerly-unexplored styles. Consequently, hybrid styles of building and decoration were produced in both East and West that borrowed freely and sometimes indiscriminately from the varied repertoires of non-western architectures, and blended them with various European structural, constructional, functional, and stylistic modes. The end results came to be known collectively as Oriental styles and individually we encounter various epithets such as the Neo-Moorish, Neo-Saracen, Neo-[Mamluk]({{< baseurl >}}/pages/lecture-notes/glossary#mamluk), Neo-Mughal and so on.
+**Neo-Islamic Styles:** The nineteenth century started with the first European military interventions in the Orient and ended with most of it under direct colonial rule. Architecture was affected by these new political realities and by the disciplinary developments in Europe where architecture had become an academic field with its rules and parameters. European styles began shaping the outlook of "Oriental" cities and the tastes of their inhabitants. Also European and European-trained designers became the masters of the building trades everywhere. These same professionals acted as the interpreters of the architectural heritage of the countries in which they worked. They documented, analyzed, and classified the structures they encountered, which permitted the introduction of these formerly-unexplored styles. Consequently, hybrid styles of building and decoration were produced in both East and West that borrowed freely and sometimes indiscriminately from the varied repertoires of non-western architectures, and blended them with various European structural, constructional, functional, and stylistic modes. The end results came to be known collectively as Oriental styles and individually we encounter various epithets such as the Neo-Moorish, Neo-Saracen, Neo-{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Mamluk" "#mamluk" %}}, Neo-Mughal and so on.
 
 Monuments
 ---------
@@ -37,7 +38,7 @@ Monuments
 {{</ image-gallery >}}
 **The Nuruosmaniye Mosque, Istanbul**
 
-Completed by Osman III in 1755, this is the first Baroque [Ottoman]({{< baseurl >}}/pages/lecture-notes/glossary#ottomans) mosque. Its prayer hall follows the rigid square, domed plan but its courtyard curves in a horseshoe form.
+Completed by Osman III in 1755, this is the first Baroque {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ottoman" "#ottomans" %}} mosque. Its prayer hall follows the rigid square, domed plan but its courtyard curves in a horseshoe form.
 
 **The Nusretiye Mosque, Istanbul**
 
@@ -53,4 +54,4 @@ Begun in 1869 and designed in a neo-Mamluk style, the mosque was left unfinished
 
 **The Dolmabahçe Mosque, Istanbul**
 
-(1852-53). Is built by the first of the Balian family of architects, Karabet, as an adaptation of a neo-classical style to the requirements of a small royal mosque. Its [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) take the shape of Corinthian columns. It, and the palace that gave it its name, are two examples of the strong influence of Western models in late Ottoman architecture.
+(1852-53). Is built by the first of the Balian family of architects, Karabet, as an adaptation of a neo-classical style to the requirements of a small royal mosque. Its {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} take the shape of Corinthian columns. It, and the palace that gave it its name, are two examples of the strong influence of Western models in late Ottoman architecture.

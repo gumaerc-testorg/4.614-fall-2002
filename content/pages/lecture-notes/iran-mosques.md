@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ title: 8. Mosques of Iran and Central Asia (8th-11th Century)
 uid: 4b315596-0d01-5a70-8a1b-b293c03b57e2
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/fatimid) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/seljuqs)
+{{% resource_link 4882bd29-5828-5b3f-3de4-f7dfa398509d "Previous Lecture" %}} | {{% resource_link d2e28b21-fe48-7473-1b36-2f0315294a4c "Next Lecture" %}}
 
 Concepts
 --------
@@ -76,7 +77,7 @@ Nayin, Iran: (10th century), hypostyle; heavy cylindrical pillars; carved stucco
 
 **Masjid-i-Ta', Balkh, Afghanistan**
 
-(first half of the 9th century). A nine-domed open pavilion with only a [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) wall, heavy brick piers and coupled-columns on the side walls; carved stucco decoration similar to [Samarra]({{< baseurl >}}/pages/lecture-notes/glossary#samarra) styles.
+(first half of the 9th century). A nine-domed open pavilion with only a {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} wall, heavy brick piers and coupled-columns on the side walls; carved stucco decoration similar to {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Samarra" "#samarra" %}} styles.
 
 **Gunbad-i-Qabus in Gurgan, Iran**
 

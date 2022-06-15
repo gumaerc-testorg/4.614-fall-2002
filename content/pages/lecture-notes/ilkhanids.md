@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -10,14 +11,14 @@ title: 12. Religious Architecture of the Ilkhanids
 uid: f4bb2f9a-df48-62e7-801c-f667ac835a4e
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/ayyubids) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/muslim-india)
+{{% resource_link 692c4bde-ade9-f330-0bce-5abcb5e76923 "Previous Lecture" %}} | {{% resource_link b4bcb52b-9307-183f-d69d-8b657a949c88 "Next Lecture" %}}
 
 Concepts
 --------
 
-**The Ilkhanids:** Il-khan (Subordinate of the Khan) was the title assumed by Hülegü (1256-65), after he became the Mongol ruler of Iran and Khurasan. The Ilkhanids eventually converted to [Islam]({{< baseurl >}}/pages/lecture-notes/glossary#islam) and adopted the Iranian culture. It was from that period that the material culture of Iran flourished after the severe blow caused by the Mongol invasion.
+**The Ilkhanids:** Il-khan (Subordinate of the Khan) was the title assumed by Hülegü (1256-65), after he became the Mongol ruler of Iran and Khurasan. The Ilkhanids eventually converted to {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Islam" "#islam" %}} and adopted the Iranian culture. It was from that period that the material culture of Iran flourished after the severe blow caused by the Mongol invasion.
 
-**Dargah:** A Persian term for entrance vestibule, it became an important element in [Timurid]({{< baseurl >}}/pages/lecture-notes/glossary#timur) architecture and developed into monumental proportions along very symmetrical lines.
+**Dargah:** A Persian term for entrance vestibule, it became an important element in {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Timurid" "#timur" %}} architecture and developed into monumental proportions along very symmetrical lines.
 
 Monuments
 ---------
@@ -32,7 +33,7 @@ Monuments
 {{</ image-gallery >}}
 **The Mihrab of Sultan Oljeïtu at the Isfahan Masjid-i-Jomeh**
 
-(1310). A most unusual, carved stucco [mihrab]({{< baseurl >}}/pages/lecture-notes/glossary#mihrab) added onto a structural wall along with the whole vaulted oratory, called the winter hall.
+(1310). A most unusual, carved stucco {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "mihrab" "#mihrab" %}} added onto a structural wall along with the whole vaulted oratory, called the winter hall.
 
 **The Mosque of Ali Shah in Tabriz**
 
@@ -40,7 +41,7 @@ Monuments
 
 **The Mausoleum of Sultan Oljeïtu at Sultaniyya**
 
-(1307-13). Intended as a major component of a larger complex, this octagonal structure with eight slender [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) and a huge, blue-glazed dome is not well understood. Oljeïtu had the idea of transforming it into a mashhad for Ali and his son al-Husayn when he converted to Shiism but then changed his mind again and made it his own, and plastered the interior. The buidling shows the striving for verticality and the perfection of pre-existing traditions.
+(1307-13). Intended as a major component of a larger complex, this octagonal structure with eight slender {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} and a huge, blue-glazed dome is not well understood. Oljeïtu had the idea of transforming it into a mashhad for Ali and his son al-Husayn when he converted to Shiism but then changed his mind again and made it his own, and plastered the interior. The buidling shows the striving for verticality and the perfection of pre-existing traditions.
 
 **The Masjid-i-Jomeh at Varamin**
 
