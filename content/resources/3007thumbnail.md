@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 3007thumbnail.jpg
 uid: 7a2e2dc1-403c-28bc-7f86-af2d40cc7fa2
 ---
 Minaret: A tower, circular, octagonal, or square in section, built next to or in a mosque, from which the Muslims are called to prayer.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 3009thumbnail.jpg
 uid: 666977ef-593f-2269-0621-105a8dc616c8
 ---
 Plan of the Original Mosque of Kufa after Creswell.
-

@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1062thumbnail.jpg
 uid: 37f55602-6242-0636-79e1-f6157af5572f
 ---
 The Great Mosque of Diyarbakir (Founded 1091, and renovated in the 12th century): A Seljuq foundation on the model of the Great Umayyad mosque in Damascus, the mosque is remarkable for its use of diverse Classical and medieval Islamic motifs.
-

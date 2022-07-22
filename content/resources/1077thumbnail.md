@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: 1077thumbnail.jpg
 uid: fa1f51b3-b918-4b34-2299-00ff3d1e79f5
 ---
 The Complex of Sultan Qalawun in Cairo (1284-85): Contains a bimaristan (hospital), a madrasa, and a mausoleum for the founder. The street fa?ade is well articulated and shows the confluence of Syrian (Crusader and Islamic) arrangements. The madrasa is a four-iwan type with a basilical organization in the qiblai wan. The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.
-

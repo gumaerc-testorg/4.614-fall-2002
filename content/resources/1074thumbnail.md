@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: 1074thumbnail.jpg
 uid: 6a63a45b-d082-e121-85e6-30aff4a98197
 ---
 The Madrasa al-Firdaws in Aleppo (1235-36): Founded by Dhayfa Khatun, the strong wife of the Ayyubid ruler of Aleppo al-Zahir Ghazi. This is the most celebrated Syrian madrasa and the finest example of austere stone architecture. It is balanced in composition and conservative in decoration with a fine mihrab topped with a "Syrian knot," a decorative element that later spread to Anatolia.
-

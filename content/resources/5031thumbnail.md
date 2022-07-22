@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 5031thumbnail.jpg
 uid: 6fff0c95-9c61-3e62-4b60-1d8bc293a31a
 ---
 Rusafa (Sergiopolis)
-

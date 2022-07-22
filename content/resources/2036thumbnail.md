@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 2036thumbnail.jpg
 uid: 2ccf9c1b-3dde-b6bd-ea3a-fe57df37a6c2
 ---
 The Mosque of Gurna, Egypt
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1024thumbnail.jpg
 uid: f0d3b51a-49da-3c5c-09c9-f302833c2580
 ---
 Vocabulary of Islamic Architecture
-

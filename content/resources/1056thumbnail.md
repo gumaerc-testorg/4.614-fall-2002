@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1056thumbnail.jpg
 uid: a94ae9f8-65f0-50e3-f0c3-7b0331865b94
 ---
 Gunbad-i-Qabus in Gurgan, Iran (1006-7): a ten-sided star plan, a high cylindrical tower (52 m) that ends in a conical dome. Paradoxically identified as a qasr in the inscription.
-

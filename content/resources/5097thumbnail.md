@@ -14,6 +14,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: 5097thumbnail.jpg
 uid: 446b4340-30f4-bcb6-d410-87b8d953dd3f
 ---
 Mosque of Hassan II Casablanca, Morocco (1986-93). A gigantic mosque by the sea, this is the epitome of new state symbols magnified by the royal dynasty's claim of prophetic lineage. The architecture and decoration of the mosque are predicated on the idea that the architectural language of the past is the only legitimate one. The French architect, Michel Pinseau, was thus limited in his design to explorations of monumentality and opulence.
-

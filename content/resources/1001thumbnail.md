@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1001thumbnail.jpg
 uid: 556b627a-a38d-9c2f-ab57-3d7cebcdbce6
 ---
 The Ka'ba in Mecca
-

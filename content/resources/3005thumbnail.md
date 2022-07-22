@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 3005thumbnail.jpg
 uid: fbd99dbd-cf3c-ed5b-a4ea-ed27d0fa5045
 ---
 Mihrab: A recess, mostly in the form of arched niche, in the qibla wall, facing the direction toward Mecca.
-

@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: 1076thumbnail.jpg
 uid: befd001d-b330-07b1-85ea-ab343992d935
 ---
 The Mosque of Sultan al-Zahir Baybars in Cairo (1267-9): First royal Mamluk mosque in Cairo. Hypostyle in plan, and fortress-like in elevation, the mosque with its three portals displays local and Seljuk influences. Its minbar and mihrab are said to have been built with wood and marble taken from a Crusader's church in Jaffa.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1094thumbnail.jpg
 uid: 9578a970-a01b-d0d9-f528-df81047ca09e
 ---
 The Ala'i Darwaza at Quwwat-al-Islam Mosque
-

@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 1115thumbnail.jpg
 uid: 04e1cb1b-6c5d-9bfd-2439-85191a35eed7
 ---
 The Bibi-Khanum Mosque in Samarqand (1399-1404). Popularly named after Timur's wife, this is the mosque he intended to be the royal monument. Its tall projecting portal, with its flanking minarets was repeated inside in the qibla iwan. The mosque displays Timur's concern for monumental effect and theatrical arrangement.
-

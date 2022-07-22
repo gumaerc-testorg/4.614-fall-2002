@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1025thumbnail.jpg
 uid: ce749d50-02c1-2033-667c-77bd8b881777
 ---
 The Ribat of Susa, Tunisia
-

@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: 1116thumbnail.jpg
 uid: f280486e-9026-5f78-8a38-458643d620c3
 ---
 The Gur-i-Amir Mausoleum in Samarqand (1404). Initially a religious complex appropriated to build a tomb for Timur's grandson Muhammad Sultan, it became the burial place for Timur and his male descendants. It formed a part of a larger religious complex, and a later madrasa abutted on its side. The double-shell dome achieves both an interior harmony and an exterior verticality.
-

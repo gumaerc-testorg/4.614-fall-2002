@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 5024thumbnail.jpg
 uid: 7022b3d1-06c3-9b5b-ba7b-bf17c684ef64
 ---
 Axonometric of the Prophet Mosque in Medina (after Creswell).
-

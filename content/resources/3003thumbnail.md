@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 3003thumbnail.jpg
 uid: 4cdf7a3b-b114-082d-68dd-433311594dbe
 ---
 The Iwan Mosque: Mosque in which the prayer hall is an iwan, or more, up to four iwans, surrounding a courtyard. It was the most popular type in the medieval period, and remained dominant in Iran.
-

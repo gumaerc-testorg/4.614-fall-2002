@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1061thumbnail.jpg
 uid: 9327ed7d-f536-92e0-5cd0-4d2d220d7602
 ---
 The Great Mosque of Diyarbakir
-

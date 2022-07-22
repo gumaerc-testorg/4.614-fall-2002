@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 1141thumbnail.jpg
 uid: d7bdb1be-8cb3-2655-717c-7abb713127fa
 ---
 Central Dome Mosques Based on Eight Supports (1569-74). The masterpiece of Sinan, it has a radially symmetrical plan with the four minarets acting as end points, and a huge, central dome rising above eight counterweights. The kulliye had only two madrasas behind the mosque.
-

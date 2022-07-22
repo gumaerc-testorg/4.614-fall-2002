@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 1037thumbnail.jpg
 uid: 8723a0aa-d653-8788-62b3-0250b757a5b6
 ---
 Built between 990 and 1003 outside the walls of al-Qahira, and named after al-Hakim, the third caliph in Egypt.
-

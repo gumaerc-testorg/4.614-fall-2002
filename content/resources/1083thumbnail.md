@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 1083thumbnail.jpg
 uid: 2c137645-1a51-dff1-8079-a1a9c077349d
 ---
 The Mosque of Ali Shah in Tabriz (1315): Considered the largest iwan mosque of its time, this huge vaulted structure overlooking a large court with a big central pool (possibly meant as a reflective pool) was seen as the Islamic challenge to the legendary Iwan-i Kisra.
-

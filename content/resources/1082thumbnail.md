@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1082thumbnail.jpg
 uid: 1d6e91e2-792a-3317-e3f2-470d474477f9
 ---
 The Mihrab of Sultan Olje?tu at the Isfahan Masjid-i-Jomeh (1310): a most unusual, carved stucco mihrab added onto a structural wall along with the whole vaulted oratory, called the winter hall.
-

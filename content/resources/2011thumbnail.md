@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 2011thumbnail.jpg
 uid: e74a776b-43d4-ee59-e3cb-54caacd548f0
 ---
 The Tomb of Itimad al-Dawla in Agra
-

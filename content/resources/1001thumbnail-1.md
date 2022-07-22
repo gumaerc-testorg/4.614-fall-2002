@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1001thumbnail.jpg
 uid: 4125a1da-c6e8-8d53-f69a-c60a7781c1c1
 ---
 The Ka'ba in Mecca
-

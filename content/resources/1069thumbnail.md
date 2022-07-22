@@ -15,6 +15,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ title: 1069thumbnail.jpg
 uid: 7fc9a55a-38c0-fd35-dfac-b6c1d01c4d3b
 ---
 The Great Mosque and Hospital of Divrik (Divrigi): Established by the wife of Ahmet Shah, the Mengujukid ruler of the city, in 1228-29, the mosque manifests the new development of hypostyle mosques in Anatolia (the reduction of the court), and the fusion of several traditions in the nascent architectural vocabulary. Very complex, and sometimes chaotic, themes and modes of stone carving appear in the portals. This makes the entire structure a curious museum of the various Anatolian decorative styles of the period.
-

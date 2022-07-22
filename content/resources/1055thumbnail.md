@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1055thumbnail.jpg
 uid: 95bec271-f9b1-0431-171b-0232d252e86d
 ---
 Detail of Medieval Islamic Architecture
-

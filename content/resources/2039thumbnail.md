@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 2039thumbnail.jpg
 uid: 6ff43138-7ea2-c1e0-c55b-840e1e5f74b1
 ---
 Sherefudin's White Mosque, Visoko, Bosnia (1980). Designed by the architect Zlatko Ulgjen, it masterfully assimilates modern influences, especially Le Corbusier's Ronchamp Cathedral, and traditional Ottoman forms and elements. This mosque is firmly anchored in the present, but whose indebtness to its past is well-articulated.
-

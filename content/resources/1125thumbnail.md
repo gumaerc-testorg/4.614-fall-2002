@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1125thumbnail.jpg
 uid: a4786bac-6607-2cee-cfde-774957d7fcb0
 ---
 Yesil Cami (Green Mosque) at Iznik: (1378-91). A single dome mosque built by the vizir Hayreddin Pasha. It has part of the central dome supported on columns, which announces the future development of Ottoman mosques.
-

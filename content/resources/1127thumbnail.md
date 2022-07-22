@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1127thumbnail.jpg
 uid: 7a6240f1-f4b4-978a-9ebd-c7897c09ee24
 ---
 Hudavendigar Complex. (Image courtesy of Yasser Tabbaa.)
-

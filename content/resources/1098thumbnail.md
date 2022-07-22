@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1098thumbnail.jpg
 uid: 2203bceb-368a-7783-c9ab-20c5bdb2b061
 ---
 The Congregational Mosque at Gulbarga in the Deccan
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Calendar
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: 1131thumbnail.jpg
 uid: 1d140d88-89be-a288-d565-7dd3a3601b3d
 ---
 ?? Serefeli Cami at Edirne
-

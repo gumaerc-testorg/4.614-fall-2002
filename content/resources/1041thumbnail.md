@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 1041thumbnail.jpg
 uid: f7996b66-2426-6d99-352d-7d1336a080f4
 ---
 Al-Aqmar Mosque: A small masjid built in 1125 north of the caliphal palace.
-

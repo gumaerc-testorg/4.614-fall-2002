@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 5149thumbnail.jpg
 uid: cc83108c-8454-dc20-08c5-1ce17c86216f
 ---
 The Minaret of Jam, Afghanistan (1163-1203). This cylindrical, heavily-ornamented, 65-meter high brick tower is the most remarkable of a group of little-understood towers/minarets spread all over the medieval Turko-Iranian regions from Iraq to India.
-

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: iew of the mashhad after the 1990's restoration
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: '7. The Fatimid Caliphate: A New Tradition and Old Forms'
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: SLD6.jpg
 uid: 3238b00a-0f2f-da52-ccf7-de97562659d3
 ---
 The Mashhad al-Juyyushi: View of the mashhad after the 1990's restoration.
-

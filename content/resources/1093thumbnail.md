@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1093thumbnail.jpg
 uid: ccd37c56-b427-601a-ea0b-854967af4304
 ---
 The Qutb Minar of Quwwat al-Islam Mosque (1199). Built by Aybak as a victory tower. It echoes the minaret of Jam, built by his master Ghiyath al-Din Muhammad of Ghur, but rises 7 meters higher.
-

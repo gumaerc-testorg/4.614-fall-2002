@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -21,4 +22,3 @@ title: 2012thumbnail.jpg
 uid: a60625a7-358a-4690-78bc-de712907c672
 ---
 The Tomb of Itimad al-Dawla in Agra (1628). A low pavilion over a square plinth, situated in the center of a chahar bagh and surrounded by four minarets at the four corners. This is the first monument to employ white marble and pietra dura.
-

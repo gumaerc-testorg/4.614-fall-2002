@@ -15,6 +15,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -24,4 +25,3 @@ title: 1134thumbnail.jpg
 uid: fac1a896-a819-5450-16b5-81ad32aac2bd
 ---
 Central Dome Mosques Based on Four Supports with Two or More Half-Domes (1550-57). The largest Ottoman half-domed mosque, it sits on the top of the sixth hill that dominates the city and cascades down in a pyramidical arrangement of its domes, half-domes, counterweights, and butresses. The mosque forms the center of a kulliye with a dar al-hadith, four madrasas, an imaret, a tabkhane, a mektab, a medical school (tibb medrese), bath, fountain, and the mausolea of the founder, his wife, and Sinan himself (in a corner).
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 3010thumbnail.jpg
 uid: f3958268-75e7-4acb-4a62-2893c7e5d07b
 ---
 View of the prayer hall of the Mosque of Amru in Fustat.
-

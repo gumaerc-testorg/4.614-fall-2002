@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1128thumbnail.jpg
 uid: c80643fc-07b0-4e53-81a3-dec749655b5d
 ---
 Yesil (Green) Complex at Bursa (1412-20). An urban charitable complex which comprises a mosque, a t?rbe, a hammam, and an imaret. It was built by Mehmet I. Superior example of the use of Iznik tiles.
-

@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 5029thumbnail.jpg
 uid: 8f14af15-374b-ea63-2f59-bd2ad04bf6aa
 ---
 Mada`in Salih, Saudi Arabia
-

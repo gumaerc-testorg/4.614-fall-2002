@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1068thumbnail.jpg
 uid: e436881c-b696-55c1-59ee-0d17a25b6619
 ---
 The Great Mosque and Hospital of Divrik (Divrigi)
-

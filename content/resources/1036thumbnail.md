@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1036thumbnail.jpg
 uid: cc2d5917-338a-1b4a-9470-53538d4a1ab6
 ---
 Al-Azhar Mosque: (969-72) The royal congregational mosque of al-Qahira, founded in 969 and dedicated in 972, it evolved to become the religious center of Egypt and the most celebrated theological college in the Islamic world.
-

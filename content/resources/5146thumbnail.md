@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 5146thumbnail.jpg
 uid: fe1e843e-aa78-620c-e047-bfbb9582ee31
 ---
 Tarik Khana Mosque, Damghan, Iran: (between 750-89): hypostyle, large axial nave, heavy cylindrical brick piers support elliptical, pointed arches; roof, barrel vaults.
-

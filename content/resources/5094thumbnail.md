@@ -14,6 +14,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -23,4 +24,3 @@ title: 5094thumbnail.jpg
 uid: abab8f02-adc8-d02d-6e9a-af1f5388727e
 ---
 National Assembly Mosque, Ankara, Turkey (1987-89). A modernist place of worship for a secularist government, this mosque was designed by the Cinici group. Constructed in exposed concrete, the mosque displays innovative abstractions of all the traditional elements of Islamic architecture. The plexiglass mihrab adds an unusual symbolic touch by alluding to the notion of the mihrab as the gate to the luminous hereafter.
-

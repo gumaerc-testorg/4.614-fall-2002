@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 2004thumbnail.jpg
 uid: cedb0fd7-7dd1-65d3-d335-8fa04335936d
 ---
 The Masjid-i-Shah: The congregational 4-iwan mosque built between 1612 and 1638 that marks the south of the Maydan with its magnificent portal flanked by two minarets and its dazzling tiled dome.
-

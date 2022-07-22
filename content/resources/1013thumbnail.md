@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 1013thumbnail.jpg
 uid: 45aeb7ee-eff9-5d3d-1829-dadcaf28708e
 ---
 A view of the eastern fa?ade of al-Aqsa Mosque.
-

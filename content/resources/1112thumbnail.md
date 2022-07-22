@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1112thumbnail.jpg
 uid: d6aeee05-8d5a-5358-d26c-a9439a50fc07
 ---
 The Sabil-Kuttab of Sultan Qaytbay (1479). The earliest stand-alone Sabil-Kuttab in Cairo, it establishes the type as a pietistic endowment in the urban milieu without it being attached to a larger religious complex.
-

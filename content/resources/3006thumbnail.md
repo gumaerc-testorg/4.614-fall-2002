@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 3006thumbnail.jpg
 uid: dcae0cb5-15bd-aadb-a481-2e5cec8a6788
 ---
 Minbar: A pulpit near the mihrab, from which the prayer leader gives the sermon on Fridays.
-

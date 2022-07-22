@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1144thumbnail.jpg
 uid: bc7e24c0-e3ae-ce08-c363-4f6a6ebc269c
 ---
 The Mosque of Shaykh Lutfallah (initially Sadr Mosque). Situated in the east of the Maydan with its golden tiled dome. It was constructed for an important shaykh in 1602 and used as the private oratory of the shah and his family.
-

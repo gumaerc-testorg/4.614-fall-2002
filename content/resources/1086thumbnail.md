@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: 1086thumbnail.jpg
 uid: 7fe89b87-ae47-1a42-acf6-48759e78b3fa
 ---
 The Masjid-i-Jomeh at Varamin (1322-26). Built under Abu Said, the son of Olje?tu, this mosque is a very symmetrical composition which displays the ideal four-iwan plan. Its Dargah announces later developments.
-

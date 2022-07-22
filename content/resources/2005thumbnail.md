@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: 2005thumbnail.jpg
 uid: 040c0a18-3ee1-e58d-aa67-75f4e53c942a
 ---
 The Tomb of Humayun in Delhi (1565). A massive domed pavilion on a square base set in the center of a huge garden divided recursively into nine chahar baghs.
-
