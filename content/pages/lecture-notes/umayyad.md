@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '4. Umayyad Grandeur: First Imperial Expressions'
 uid: f624ec8c-bd95-2ad4-03a4-e7dc821336fc
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/early-mosques) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/abbasids)
+{{% resource_link efafd633-1220-a5fe-cc3b-7e3d2a7ac297 "Previous Lecture" %}} | {{% resource_link 44e81cb2-d4e8-4c7c-2702-9c303dcd2ad5 "Next Lecture" %}}
 
 Concepts
 --------
@@ -15,14 +20,14 @@ Concepts
 
 **Abd al-Malik**: Fifth Umayyad caliph (685-705), organized the Caliphate, Arabicized the administration and Islamized the coinage after he had subdued several revolts against the rule of his family.
 
-**The Night Journey and the Ascension (_Al-Isra' wa-l-Miraj_)**: The miraculous journey of the Prophet from [Mecca]({{< baseurl >}}/pages/lecture-notes/glossary#mecca) to Jerusalem and his ascension to Heaven to receive from God major doctrinal requirements.
+**The Night Journey and the Ascension (_Al-Isra' wa-l-Miraj_)**: The miraculous journey of the Prophet from {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Mecca" "#mecca" %}} to Jerusalem and his ascension to Heaven to receive from God major doctrinal requirements.
 
 New Elements in Mosque Architecture
 -----------------------------------
 
-**Concave [mihrab]({{< baseurl >}}/pages/lecture-notes/glossary#mihrab)**: reportedly first introduced in the Mosque of the Prophet at Medina in 707.
+**Concave {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "mihrab" "#mihrab" %}}**: reportedly first introduced in the Mosque of the Prophet at Medina in 707.
 
-*   [Minaret]({{< baseurl >}}/pages/lecture-notes/glossary#minaret): earliest examples may have been the towers flanking the northern side of the original Roman temenos where the Great Umayyad Mosque of Damascus was built.
+*   {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Minaret" "#minaret" %}}: earliest examples may have been the towers flanking the northern side of the original Roman temenos where the Great Umayyad Mosque of Damascus was built.
 *   Maqsura: a private area in the prayer hall enclosed by a wood screen for the ruler and his entourage.
 *   Dome in the central nave in front of the mihrab: first appeared in Damascus and may have been adopted from palatial Roman and Byzantine precedents as illustrated in mosaic by the representation of the "Palace of Thoederic" in St. Appolinaire Nuevo in Ravenna (ca. 490).
 *   Khazna: treasury, a structure possibly used as a vault in the mosque's courtyrad.
@@ -37,7 +42,7 @@ Decoration of Mosques:
 
 Monuments
 ---------
-{{< image-gallery id="f624ec8c-bd95-2ad4-03a4-e7dc821336fc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="f624ec8c-bd95-2ad4-03a4-e7dc821336fc_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="bfc23b2abcdb0c70059964ca704d85fd_1005.jpg" data-ngdesc="Aerial view of the Dome of the Rock in the middle of the Haram al-Sharif." text="Aerial view of the Dome of the Rock in the middle of the Haram al-Sharif." >}}
 {{< image-gallery-item href="6f07f18e3b2359a71d6f207f50881462_1006.jpg" data-ngdesc="The Dome of the Rock, 692." text="The Dome of the Rock, 692." >}}
 {{< image-gallery-item href="f4eb01c848246c2129d1f577c8f5aaaa_1007.jpg" data-ngdesc="View of the interior showing the inner ambulatory arcade." text="View of the interior showing the inner ambulatory arcade." >}}

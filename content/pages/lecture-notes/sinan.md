@@ -1,23 +1,28 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: '17. Classical Ottoman Architecture: The Age of Sinan'
 uid: 85f7a84c-42ef-44e5-1640-98b3e4e33e92
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/anatolia-turks) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/safavids)
+{{% resource_link 65c4fb06-c40d-5838-34ad-aaf1aa337015 "Previous Lecture" %}} | {{% resource_link f5dbe8b1-db8e-7a13-de7b-240a1c8d91e6 "Next Lecture" %}}
 
 Concepts
 --------
 
-**Koca Sinan (1499?-1588):** The greatest [Ottoman]({{< baseurl >}}/pages/lecture-notes/glossary#ottomans) architect, he served as chief architect or the Architect of Dar-Usaadet (the Abode of Felicity) for 50 years (1538-88). He built or supervised a total of 316 structures in Istanbul alone. He greatly influenced the development of Ottoman architecture and produced its most celebrated masterpieces.
+**Koca Sinan (1499?-1588):** The greatest {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ottoman" "#ottomans" %}} architect, he served as chief architect or the Architect of Dar-Usaadet (the Abode of Felicity) for 50 years (1538-88). He built or supervised a total of 316 structures in Istanbul alone. He greatly influenced the development of Ottoman architecture and produced its most celebrated masterpieces.
 
-**The Kulliye:** From the Arabic _kull_ (the whole), it was used in Ottoman times to designate the religious, social, and charitable complexes. Kulliyes were built by sultans, their wives, and their high officials. A great kulliye normally comprises a congregational mosque, one or more [madrasas]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa), a soup kitchen ([imaret]({{< baseurl >}}/pages/lecture-notes/glossary#imaret)), a hospital (dar al-shifa), a school for kids (mektab), a bath, fountains, and possibly the mausoleum of the founder and his family.
+**The Kulliye:** From the Arabic _kull_ (the whole), it was used in Ottoman times to designate the religious, social, and charitable complexes. Kulliyes were built by sultans, their wives, and their high officials. A great kulliye normally comprises a congregational mosque, one or more {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasas" "#madrasa" %}}, a soup kitchen ({{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "imaret" "#imaret" %}}), a hospital (dar al-shifa), a school for kids (mektab), a bath, fountains, and possibly the mausoleum of the founder and his family.
 
 Monuments
 ---------
-{{< image-gallery id="85f7a84c-42ef-44e5-1640-98b3e4e33e92_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="85f7a84c-42ef-44e5-1640-98b3e4e33e92_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="6fbaff60d3cd3ed7f473ddddcb0b37d3_1133.jpg" data-ngdesc="The Church of Hagia Sofia (Ayasofia): View of the Church from the southwest." text="The Church of Hagia Sofia (Ayasofia): View of the Church from the southwest." >}}
 {{< image-gallery-item href="4eb7ee23014e6c80bcd562a821df9270_1156.jpg" data-ngdesc="The Church of Hagia Sofia (Ayasofia): Mihrab area." text="The Church of Hagia Sofia (Ayasofia): Mihrab area." >}}
 {{< image-gallery-item href="5bc489dd50e1725c6075a569d8ab49f5_1134.jpg" data-ngdesc="Central Dome Mosques Based on Four Supports with Two or More Half-Domes: Aerial view of the Suleymaniye Kulliye from the southwest." text="Central Dome Mosques Based on Four Supports with Two or More Half-Domes: Aerial view of the Suleymaniye Kulliye from the southwest." >}}
@@ -32,11 +37,11 @@ Monuments
 
 **Central Dome Mosques Based on Four Supports with Two or More Half-Domes**
 
-(1550-57). The largest Ottoman half-domed mosque, it sits on the top of the sixth hill that dominates the city and cascades down in a pyramidical arrangement of its domes, half-domes, counterweights, and butresses. The mosque forms the center of a kulliye with a dar al-hadith, four [madrasas]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa), an [imaret]({{< baseurl >}}/pages/lecture-notes/glossary#imaret), a [tabkhane]({{< baseurl >}}/pages/lecture-notes/glossary#tabkhane), a mektab, a medical school (tibb medrese), bath, fountain, and the mausolea of the founder, his wife, and Sinan himself (in a corner).
+(1550-57). The largest Ottoman half-domed mosque, it sits on the top of the sixth hill that dominates the city and cascades down in a pyramidical arrangement of its domes, half-domes, counterweights, and butresses. The mosque forms the center of a kulliye with a dar al-hadith, four {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasas" "#madrasa" %}}, an {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "imaret" "#imaret" %}}, a {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "tabkhane" "#tabkhane" %}}, a mektab, a medical school (tibb medrese), bath, fountain, and the mausolea of the founder, his wife, and Sinan himself (in a corner).
 
 **Central Dome Mosques Based on Eight Supports**
 
-(1569-74). The masterpiece of Sinan, it has a radially symmetrical plan with the four [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) acting as end points, and a huge, central dome rising above eight counterweights. The kulliye had only two madrasas behind the mosque.
+(1569-74). The masterpiece of Sinan, it has a radially symmetrical plan with the four {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} acting as end points, and a huge, central dome rising above eight counterweights. The kulliye had only two madrasas behind the mosque.
 
 **Central Dome Mosques Based on Six Supports**
 

@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 2. Vocabulary of Islamic Architecture
 uid: b1c87f3b-403d-8ee1-5082-aa965c555b89
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/birth-islam) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/early-mosques)
+{{% resource_link 6e9b9fdf-9094-16df-8feb-24b115207a03 "Previous Lecture" %}} | {{% resource_link efafd633-1220-a5fe-cc3b-7e3d2a7ac297 "Next Lecture" %}}
 
 Concepts
 --------
@@ -22,20 +27,20 @@ Functional Typology of Religious Structures
     *   prayer enclosure (_musalla_ or _namaz-gah_).
 *   Structures for religious education
     *   Qur'anic school for children (_kuttab_).
-    *   religious college (_[madrasa]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa)_).
+    *   religious college (_{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasa" "#madrasa" %}}_).
 *   Monastic structures:
-    *   monastic fortress (_[Ribat]({{< baseurl >}}/pages/lecture-notes/glossary#ribat)_).
-    *   urban Sufi lodge (_[Khanqah]({{< baseurl >}}/pages/lecture-notes/glossary#khangah)_ and/or _takiyya_ or _tekke_).
+    *   monastic fortress (_{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ribat" "#ribat" %}}_).
+    *   urban Sufi lodge (_{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Khanqah" "#khangah" %}}_ and/or _takiyya_ or _tekke_).
     *   retreat for a famous sheikh (_zawiyya_).
 *   Memorial structures:
     *   saint (_wali_) tomb or reliquary (_maqam_ or _mazar_).
     *   memorial of a vision (_mashhad_).
-    *   mausoleum (_[qubba]({{< baseurl >}}/pages/lecture-notes/glossary#qubba)_ or _turba_) with charitable functions attached.
+    *   mausoleum (_{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qubba" "#qubba" %}}_ or _turba_) with charitable functions attached.
     *   funerary garden or enclosure (_rawd_).
 
 Monuments
 ---------
-{{< image-gallery id="b1c87f3b-403d-8ee1-5082-aa965c555b89_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="b1c87f3b-403d-8ee1-5082-aa965c555b89_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="62cfbb73c526eb74ce97f8f30cbb86d4_3005.jpg" data-ngdesc="Mihrab: A recess, mostly in the form of arched niche, in the qibla wall, facing the direction toward Mecca." text="Mihrab: A recess, mostly in the form of arched niche, in the qibla wall, facing the direction toward Mecca." >}}
 {{< image-gallery-item href="f32b439e0f5b5601e212525250d87cc4_3007.jpg" data-ngdesc="Minaret: A tower, circular, octagonal, or square in section, built next to or in a mosque, from which the Muslims are called to prayer." text="Minaret: A tower, circular, octagonal, or square in section, built next to or in a mosque, from which the Muslims are called to prayer." >}}
 {{< image-gallery-item href="f026f23a3916a90db47145287fb4c9e8_3006.jpg" data-ngdesc="Minbar: A pulpit near the mihrab, from which the prayer leader gives the sermon on Fridays." text="Minbar: A pulpit near the mihrab, from which the prayer leader gives the sermon on Fridays." >}}

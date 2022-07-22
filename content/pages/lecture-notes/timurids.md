@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 15. Religious Architecture of the Timurids
 uid: 42c455d6-0af6-1c55-3b81-c6a08eb7a2e2
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/mamluck) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/anatolia-turks)
+{{% resource_link ea828910-b03a-df94-de80-52255faf084b "Previous Lecture" %}} | {{% resource_link 65c4fb06-c40d-5838-34ad-aaf1aa337015 "Next Lecture" %}}
 
 Concepts
 --------
@@ -21,7 +26,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="42c455d6-0af6-1c55-3b81-c6a08eb7a2e2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="42c455d6-0af6-1c55-3b81-c6a08eb7a2e2_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="2e3fee2acd4682e1d6f463cdf3f94dbd_1115.jpg" data-ngdesc="General view of the Bibi-Khanum Mosque as it stood in 1995 with the halt of the Soviet large-scale restoration project." text="General view of the Bibi-Khanum Mosque as it stood in 1995 with the halt of the Soviet large-scale restoration project." >}}
 {{< image-gallery-item href="fe45596fa60a2fc096dbd396c072f425_1114.jpg" data-ngdesc="The Bibi-Khanum Mosque in Samarqand: View of one of the two ribbed and tiled side domes of the mosque after it has been completely restored." text="The Bibi-Khanum Mosque in Samarqand: View of one of the two ribbed and tiled side domes of the mosque after it has been completely restored." >}}
 {{< image-gallery-item href="384cea9955537927b7d428e0a91921a7_1116.jpg" data-ngdesc="The Gur-i-Amir Mausoleum in Samarqand: General view of the mausoleum with its tiled portal and massive ribbed and tiled dome." text="The Gur-i-Amir Mausoleum in Samarqand: General view of the mausoleum with its tiled portal and massive ribbed and tiled dome." >}}
@@ -34,11 +39,11 @@ Monuments
 {{</ image-gallery >}}
 **The Bibi-Khanum Mosque in Samarqand**
 
-(1399-1404). Popularly named after Timur's wife, this is the mosque he intended to be the royal monument. Its tall projecting portal, with its flanking [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) was repeated inside in the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) iwan. The mosque displays Timur's concern for monumental effect and theatrical arrangement.
+(1399-1404). Popularly named after Timur's wife, this is the mosque he intended to be the royal monument. Its tall projecting portal, with its flanking {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} was repeated inside in the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} iwan. The mosque displays Timur's concern for monumental effect and theatrical arrangement.
 
 **The Gur-i-Amir Mausoleum in Samarqand**
 
-(1404). Initially a religious complex appropriated to build a tomb for Timur's grandson Muhammad Sultan, it became the burial place for Timur and his male descendants. It formed a part of a larger religious complex, and a later [madrasa]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa) abutted on its side. The double-shell dome achieves both an interior harmony and an exterior verticality.
+(1404). Initially a religious complex appropriated to build a tomb for Timur's grandson Muhammad Sultan, it became the burial place for Timur and his male descendants. It formed a part of a larger religious complex, and a later {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasa" "#madrasa" %}} abutted on its side. The double-shell dome achieves both an interior harmony and an exterior verticality.
 
 **The Shah-i Zinda Complex in Samarqand**
 

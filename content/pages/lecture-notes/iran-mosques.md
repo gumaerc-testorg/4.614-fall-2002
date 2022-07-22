@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 8. Mosques of Iran and Central Asia (8th-11th Century)
 uid: 4b315596-0d01-5a70-8a1b-b293c03b57e2
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/fatimid) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/seljuqs)
+{{% resource_link 4882bd29-5828-5b3f-3de4-f7dfa398509d "Previous Lecture" %}} | {{% resource_link d2e28b21-fe48-7473-1b36-2f0315294a4c "Next Lecture" %}}
 
 Concepts
 --------
@@ -49,7 +54,7 @@ Samanids: dynasty which ruled part of former Sogdian territory from 819-1005; ca
 
 Monuments
 ---------
-{{< image-gallery id="4b315596-0d01-5a70-8a1b-b293c03b57e2_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="4b315596-0d01-5a70-8a1b-b293c03b57e2_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="0146a6dcac6a9c98d390c6c51adfffb0_1054.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, general view." text="The Samanid Mausoleum in Bukhara, general view." >}}
 {{< image-gallery-item href="de46a14b0baa07306d0080bafa2b07e9_1052.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, detail of hazar-baf on the spandrel of the portal." text="The Samanid Mausoleum in Bukhara, detail of hazar-baf on the spandrel of the portal." >}}
 {{< image-gallery-item href="94349800a964099c9d772f1e23606018_1053.jpg" data-ngdesc="The Samanid Mausoleum in Bukhara, detail of the squinch." text="The Samanid Mausoleum in Bukhara, detail of the squinch." >}}
@@ -72,7 +77,7 @@ Nayin, Iran: (10th century), hypostyle; heavy cylindrical pillars; carved stucco
 
 **Masjid-i-Ta', Balkh, Afghanistan**
 
-(first half of the 9th century). A nine-domed open pavilion with only a [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) wall, heavy brick piers and coupled-columns on the side walls; carved stucco decoration similar to [Samarra]({{< baseurl >}}/pages/lecture-notes/glossary#samarra) styles.
+(first half of the 9th century). A nine-domed open pavilion with only a {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} wall, heavy brick piers and coupled-columns on the side walls; carved stucco decoration similar to {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Samarra" "#samarra" %}} styles.
 
 **Gunbad-i-Qabus in Gurgan, Iran**
 

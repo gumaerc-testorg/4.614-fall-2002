@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 1. The Birth of Islam
 uid: 6e9b9fdf-9094-16df-8feb-24b115207a03
 ---
 
-[Next Lecture]({{< baseurl >}}/pages/lecture-notes/vocab-islam)
+{{% resource_link b1c87f3b-403d-8ee1-5082-aa965c555b89 "Next Lecture" %}}
 
 Concepts
 --------
@@ -23,7 +28,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="6e9b9fdf-9094-16df-8feb-24b115207a03_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="6e9b9fdf-9094-16df-8feb-24b115207a03_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="cac20e2e304290577b2d81d9f18c941e_1002.jpg" data-ngdesc="Frontal view of the so-called Khaznet-Firawn (the Treasury of Pharoah), a second century A.D. rock tomb in Petra." text="Frontal view of the so-called Khaznet-Firawn (the Treasury of Pharoah), a second century A.D. rock tomb in Petra." >}}
 {{< image-gallery-item href="f12af8cd247649013171bc06415e480a_5112.jpg" data-ngdesc="Petra: Rock cut tombs" text="Petra: Rock cut tombs" >}}
 {{< image-gallery-item href="508dddcc52651a2e09abeaaa32afa684_1003.jpg" data-ngdesc="Palmyra: A caravan city turned imperial center with heavy Roman influences." text="Palmyra: A caravan city turned imperial center with heavy Roman influences." >}}
@@ -32,7 +37,7 @@ Monuments
 {{</ image-gallery >}}
 **Petra:** The Nabatean capital carved in the rock with hybrid Hellenistic sensitivities.
 
-**The Ka'ba in Mecca:** The center of worship and pilgrimage before Islam which became the axis mundi of Islam's conception of the universe and the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) towards which worshippers face when praying. Date of building unknown.
+**The Ka'ba in Mecca:** The center of worship and pilgrimage before Islam which became the axis mundi of Islam's conception of the universe and the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} towards which worshippers face when praying. Date of building unknown.
 
 **Palmyra:** A caravan city turned imperial center with heavy Roman influences.
 

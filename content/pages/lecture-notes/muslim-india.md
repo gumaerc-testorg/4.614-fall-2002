@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 13. Religious Architecture of the Muslim Dynasties in India (12th-15th Century)
 uid: b4bcb52b-9307-183f-d69d-8b657a949c88
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/ilkhanids) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/mamluck)
+{{% resource_link f4bb2f9a-df48-62e7-801c-f667ac835a4e "Previous Lecture" %}} | {{% resource_link ea828910-b03a-df94-de80-52255faf084b "Next Lecture" %}}
 
 Concepts
 --------
@@ -28,7 +33,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="b4bcb52b-9307-183f-d69d-8b657a949c88_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="b4bcb52b-9307-183f-d69d-8b657a949c88_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="4a5f9f00d615cf032d2ede8f875832ea_5149.jpg" data-ngdesc="The Minaret of Jam, general view." text="The Minaret of Jam, general view." >}}
 {{< image-gallery-item href="05a2b7416220a5389b1fbeed2aea6b7b_1091.jpg" data-ngdesc="The Mosque of Quwwat al-Islam, view of the mosque with the arched screen in front the qibla wall and the iron column in the courtyard." text="The Mosque of Quwwat al-Islam, view of the mosque with the arched screen in front the qibla wall and the iron column in the courtyard." >}}
 {{< image-gallery-item href="3a65b80dd7ee2787da77d2569c6f5f25_1092.jpg" data-ngdesc="The Mosque of Quwwat al-Islam, detail of the hypostyle columns, which are all reused from Hindu temples." text="The Mosque of Quwwat al-Islam, detail of the hypostyle columns, which are all reused from Hindu temples." >}}
@@ -55,7 +60,7 @@ Monuments
 
 **The Congregational Mosque at Jaunpur**
 
-(1394-1479). This mosque is influenced by Tughluqid forms, but its screen in the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) façade is transformed into a huge propylon.
+(1394-1479). This mosque is influenced by Tughluqid forms, but its screen in the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} façade is transformed into a huge propylon.
 
 **The Tomb of Ghiyath al-Din Tughluq at Delhi-Tughluqabad**
 

@@ -1,17 +1,22 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 14. Late Mamluk Religious Architecture
 uid: ea828910-b03a-df94-de80-52255faf084b
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/muslim-india) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/timurids)
+{{% resource_link b4bcb52b-9307-183f-d69d-8b657a949c88 "Previous Lecture" %}} | {{% resource_link 42c455d6-0af6-1c55-3b81-c6a08eb7a2e2 "Next Lecture" %}}
 
 Concepts
 --------
 
-**Qubba:** Arabic for dome, used in medieval terminology for mausolea. The domes of Cairo are among the most impressive examples of vault architecture, especially for the carved stone domes over tombs, and more particularly for those of the late [Mamluk]({{< baseurl >}}/pages/lecture-notes/glossary#mamluk) period which excelled in geometric and floral patterns carving on the convex dome surface.
+**Qubba:** Arabic for dome, used in medieval terminology for mausolea. The domes of Cairo are among the most impressive examples of vault architecture, especially for the carved stone domes over tombs, and more particularly for those of the late {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Mamluk" "#mamluk" %}} period which excelled in geometric and floral patterns carving on the convex dome surface.
 
 **Qa'a-Mosque Type:** Probably a development borrowed from residential architecture, this type has a _qa'a_ plan (the most common hall type in Egypt), which normally has two iwans facing each other on the main axis, with wall recesses on the two remaining sides, while the central space is covered with a wooden cupola.
 
@@ -19,7 +24,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="ea828910-b03a-df94-de80-52255faf084b_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="ea828910-b03a-df94-de80-52255faf084b_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="e7a4c45e055c92abbd08d801538a8b64_1101.jpg" data-ngdesc="The Mosque of Sultan Hasan, general view with mausoleum in front." text="The Mosque of Sultan Hasan, general view with mausoleum in front." >}}
 {{< image-gallery-item href="01ba3e9b21ec891bde8be23ec300a4ba_1102.jpg" data-ngdesc="The monumental portal of Sultan Hasan with its muqarnas conch." text="The monumental portal of Sultan Hasan with its muqarnas conch." >}}
 {{< image-gallery-item href="bb5c8362a931ebe3c16b5157063ee531_1103.jpg" data-ngdesc="The Mosque of Sultan Hasan: An intricate carved stone medallion on the portal of the Mosque." text="The Mosque of Sultan Hasan: An intricate carved stone medallion on the portal of the Mosque." >}}
@@ -39,9 +44,9 @@ Monuments
 {{</ image-gallery >}}
 **The Mosque of Sultan Hasan**
 
-(1356-61). The most monumental of all Cairene mosques, it stands like a fortress across from the Citadel of Cairo. The structure is a four-iwan, four-[madrasa]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa) composition with a mausoleum right on the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) axis of the mosque. The huge portal is oriented to impress the viewer coming from the Citadel. Its [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) mark the beginning of the line of development of the 3-tiered Mamluk minarets.
+(1356-61). The most monumental of all Cairene mosques, it stands like a fortress across from the Citadel of Cairo. The structure is a four-iwan, four-{{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasa" "#madrasa" %}} composition with a mausoleum right on the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} axis of the mosque. The huge portal is oriented to impress the viewer coming from the Citadel. Its {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} mark the beginning of the line of development of the 3-tiered Mamluk minarets.
 
-**The** [**Khanqah**]({{< baseurl >}}/pages/lecture-notes/glossary#khanqah) **of Sultan Faraj ibn Barquq**
+**The** {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "**Khanqah**" "#khanqah" %}} **of Sultan Faraj ibn Barquq**
 
 (1400-11). A very symmetrical composition which contains a hypostyle mosque, cells for sufis, and two minarets and two carved stone qubbas, which are the largest stone domes in Cairo.
 

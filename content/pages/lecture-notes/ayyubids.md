@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 11. Architecture of the Ayyubids and Mamluks
 uid: 692c4bde-ade9-f330-0bce-5abcb5e76923
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/anatolia) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/ilkhanids)
+{{% resource_link 1dded7ed-926e-1cf3-9b6b-83ef7580e73e "Previous Lecture" %}} | {{% resource_link f4bb2f9a-df48-62e7-801c-f667ac835a4e "Next Lecture" %}}
 
 Concepts
 --------
@@ -23,7 +28,7 @@ Concepts
 
 Monuments
 ---------
-{{< image-gallery id="692c4bde-ade9-f330-0bce-5abcb5e76923_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="692c4bde-ade9-f330-0bce-5abcb5e76923_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="0f6d0bc11172aa5e66f7596b1ed818c3_3023.jpg" data-ngdesc="Contemporary view with the dome and minaret and the shops hiding the facade." text="Contemporary view with the dome and minaret and the shops hiding the facade." >}}
 {{< image-gallery-item href="658ea7f8cbc755e3b232271df472ba47_1076.jpg" data-ngdesc="The Mosque of Sultan al-Zahir Baybars in Cairo, general view." text="The Mosque of Sultan al-Zahir Baybars in Cairo, general view." >}}
 {{< image-gallery-item href="f549e88e84307a24db1d1d07add0c8e8_SLD-148.jpg" data-ngdesc="The Mosque of Sultan al-Zahir Baybars in Cairo, view of the Western Portal." text="The Mosque of Sultan al-Zahir Baybars in Cairo, view of the Western Portal." >}}
@@ -42,16 +47,16 @@ Monuments
 
 **The Mosque of Sultan al-Zahir Baybars in Cairo**
 
-(1267-9): First royal Mamluk mosque in Cairo. Hypostyle in plan, and fortress-like in elevation, the mosque with its three portals displays local and Seljuk influences. Its [minbar]({{< baseurl >}}/pages/lecture-notes/glossary#minbar) and [mihrab]({{< baseurl >}}/pages/lecture-notes/glossary#mihrab) are said to have been built with wood and marble taken from a Crusader's church in Jaffa.
+(1267-9): First royal Mamluk mosque in Cairo. Hypostyle in plan, and fortress-like in elevation, the mosque with its three portals displays local and Seljuk influences. Its {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minbar" "#minbar" %}} and {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "mihrab" "#mihrab" %}} are said to have been built with wood and marble taken from a Crusader's church in Jaffa.
 
 **The Mosque of Sultan al-Nasir Muhammad in Cairo**
 
-(1318 and 1335). This hypostyle structure is distinguished by the arrangement of alternate courses of red and black stone in its arches and niches, and by its two unusual [minarets]({{< baseurl >}}/pages/lecture-notes/glossary#minaret) which may have been a direct import from Ilkhanid Iran.
+(1318 and 1335). This hypostyle structure is distinguished by the arrangement of alternate courses of red and black stone in its arches and niches, and by its two unusual {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "minarets" "#minaret" %}} which may have been a direct import from Ilkhanid Iran.
 
 **The Khanqah of Sultan Baybars al-Jashankir**
 
-(1307-10). A structure with a biaxial plan, this Khanqa had a mausoleum added on its [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) side. It contained rooms for the sufis aligned on its two longitudinal sides.
+(1307-10). A structure with a biaxial plan, this Khanqa had a mausoleum added on its {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} side. It contained rooms for the sufis aligned on its two longitudinal sides.
 
 **The Complex of Sultan Qalawun in Cairo**
 
-(1284-85). Contains a bimaristan (hospital), a madrasa, and a mausoleum for the founder. The street façade is well articulated and shows the confluence of Syrian (Crusader and Islamic) arrangements. The [madrasa]({{< baseurl >}}/pages/lecture-notes/glossary#madrasa) is a four-iwan type with a basilical organization in the [qibla]({{< baseurl >}}/pages/lecture-notes/glossary#qibla) iwan. The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.
+(1284-85). Contains a bimaristan (hospital), a madrasa, and a mausoleum for the founder. The street façade is well articulated and shows the confluence of Syrian (Crusader and Islamic) arrangements. The {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "madrasa" "#madrasa" %}} is a four-iwan type with a basilical organization in the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "qibla" "#qibla" %}} iwan. The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.

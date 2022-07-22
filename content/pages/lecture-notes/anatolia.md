@@ -1,25 +1,30 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 68abeaab-4eff-532c-e858-18d3ffb567bd
 title: 10. Anatolia, Iraq, and Syria (11th-13th Century)
 uid: 1dded7ed-926e-1cf3-9b6b-83ef7580e73e
 ---
 
-[Previous Lecture]({{< baseurl >}}/pages/lecture-notes/seljuqs) | [Next Lecture]({{< baseurl >}}/pages/lecture-notes/ayyubids)
+{{% resource_link d2e28b21-fe48-7473-1b36-2f0315294a4c "Previous Lecture" %}} | {{% resource_link 692c4bde-ade9-f330-0bce-5abcb5e76923 "Next Lecture" %}}
 
 Concepts
 --------
 
-**Post-Seljuq Period:** After the desintegration of the Great [Seljuq]({{< baseurl >}}/pages/lecture-notes/glossary#seljuq) Empire, many spin-off dynasties carved out smaller provinces in Anatolia (which opened up to Turkish immigration after the Seljuks defeated the Byzantines at the battle of Manzikert in 1071), Syria, and Mesopotamia. The most important among them were the Seljuqs of Rum (Anatolia) and the Zengids.
+**Post-Seljuq Period:** After the desintegration of the Great {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Seljuq" "#seljuq" %}} Empire, many spin-off dynasties carved out smaller provinces in Anatolia (which opened up to Turkish immigration after the Seljuks defeated the Byzantines at the battle of Manzikert in 1071), Syria, and Mesopotamia. The most important among them were the Seljuqs of Rum (Anatolia) and the Zengids.
 
-**The Crusades:** A series of campaigns launched in 1099 by Christian Europe against the Islamic East, ostensibly to liberate the Holy Land. In 1187, Salah al-Din (Saladin), the founder of the [Ayyubid]({{< baseurl >}}/pages/lecture-notes/glossary#ayyubid) dynasty, took Jerusalem back. In 1292, Acre, the last stronghold of the Crusaders in Palestine, fell to the [Mamluks]({{< baseurl >}}/pages/lecture-notes/glossary#mamluk).
+**The Crusades:** A series of campaigns launched in 1099 by Christian Europe against the Islamic East, ostensibly to liberate the Holy Land. In 1187, Salah al-Din (Saladin), the founder of the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Ayyubid" "#ayyubid" %}} dynasty, took Jerusalem back. In 1292, Acre, the last stronghold of the Crusaders in Palestine, fell to the {{% resource_link 851489fb-7279-2905-c810-64a265ac9cc3 "Mamluks" "#mamluk" %}}.
 
 **The Counter-Crusade:** A movement to recover the Islamic lands occupied by the Crusades. It was fueled by the ruling military and religious elite as part of a wider moral reinvigoration of the community that was translated architecturally in the spread of religious institutions such as madrasas and mausolea.
 
 Monuments
 ---------
-{{< image-gallery id="1dded7ed-926e-1cf3-9b6b-83ef7580e73e_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
+{{< image-gallery id="1dded7ed-926e-1cf3-9b6b-83ef7580e73e_nanogallery2" baseUrl="/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/" >}}
 {{< image-gallery-item href="3ba1fbf41b31db916a36769663cda6df_1064.jpg" data-ngdesc="The Madrasa of Nur al-Din, interior view of the muqarnas dome." text="The Madrasa of Nur al-Din, interior view of the muqarnas dome." >}}
 {{< image-gallery-item href="ab95dd9bb8dab7760d89d098cb836475_1066.jpg" data-ngdesc="The Great Mosque of Dunaysir, facade of the prayer hall." text="The Great Mosque of Dunaysir, facade of the prayer hall." >}}
 {{< image-gallery-item href="4b7fa2f31f1ec9ba690dab4e07c7bd8d_1067.jpg" data-ngdesc="The Great Mosque of Dunaysir, interior view with mihrab and squinch." text="The Great Mosque of Dunaysir, interior view with mihrab and squinch." >}}
