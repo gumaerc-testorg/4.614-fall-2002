@@ -3,6 +3,7 @@ content_type: resource
 description: 'The Great Mosque at Dar al-Salam: Built by Abu Ja''far al-Mansur in
   762, demolished and rebuilt in 808-9, then enlarged in 873-75.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/09660b0c9c769bc3396f2cfb04a107a9_5022thumbnail.jpg
+file_size: 22930
 file_type: image/jpeg
 image_metadata:
   caption: ''

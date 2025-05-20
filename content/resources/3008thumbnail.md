@@ -4,6 +4,7 @@ description: 'Ablution Fountain: A feature frequently but not always encountered
   mosques. It is usually put in the center of the mosque''s courtyard for the worshipers
   to perform their ritual washing before prayer.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/300e986610731fbaa88a4ba25c9f1f66_3008thumbnail.jpg
+file_size: 63266
 file_type: image/jpeg
 image_metadata:
   caption: ''

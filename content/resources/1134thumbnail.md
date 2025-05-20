@@ -8,6 +8,7 @@ description: Central Dome Mosques Based on Four Supports with Two or More Half-D
   a medical school (tibb medrese), bath, fountain, and the mausolea of the founder,
   his wife, and Sinan himself (in a corner).
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fac1a896a819545016b581ad32aac2bd_1134thumbnail.jpg
+file_size: 21609
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: ?? Serefeli Cami at Edirne
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/18876869f7cd04b5526229af5dcea792_1131thumbnail.jpg
+file_size: 19805
 file_type: image/jpeg
 image_metadata:
   caption: ''

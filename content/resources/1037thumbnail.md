@@ -3,6 +3,7 @@ content_type: resource
 description: Built between 990 and 1003 outside the walls of al-Qahira, and named
   after al-Hakim, the third caliph in Egypt.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8723a0aad653878862b30250b757a5b6_1037thumbnail.jpg
+file_size: 23153
 file_type: image/jpeg
 image_metadata:
   caption: ''

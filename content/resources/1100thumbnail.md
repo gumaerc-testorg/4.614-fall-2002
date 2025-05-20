@@ -2,6 +2,7 @@
 content_type: resource
 description: The Congregational Mosque at Jaunpur
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f32fdc286b66dd204ffe4aa029b64c66_1100thumbnail.jpg
+file_size: 28133
 file_type: image/jpeg
 image_metadata:
   caption: ''

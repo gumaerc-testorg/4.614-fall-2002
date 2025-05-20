@@ -5,6 +5,7 @@ description: The Taj Mahal in Agra (1632-54). (Crown Palace) The majestic mausol
   charged, it represents the epitome of Islamic mausolea. Its plan is that of a Hasht
   Bihisht with four minarets framing it on the four sides of its square platform.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/32e994980e7364f81b61d44337b9de7f_2016thumbnail.jpg
+file_size: 32910
 file_type: image/jpeg
 image_metadata:
   caption: ''

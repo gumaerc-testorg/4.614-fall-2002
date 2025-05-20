@@ -4,6 +4,7 @@ description: 'The Imam al-Dur Dome, Samarra (ca. 1085): a brick tapering cube, s
   to the Samanid tomb, and a pointed muqarnas dome whose exterior reciprocates the
   interior arrangement.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/bfa745bf2212e93bdf2349b0e26003ce_1057thumbnail.jpg
+file_size: 23532
 file_type: image/jpeg
 image_metadata:
   caption: ''

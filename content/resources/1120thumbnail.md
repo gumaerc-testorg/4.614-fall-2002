@@ -6,6 +6,7 @@ description: The Madrasa of Ulugh Beg in Samarqand (1417-20). Standing in front 
   Registan square was defined later by the addition of two other madrasas to form
   a locus of urban life.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8c6d9ab5f72254b2b59c95e2345bb18c_1120thumbnail.jpg
+file_size: 19751
 file_type: image/jpeg
 image_metadata:
   caption: ''

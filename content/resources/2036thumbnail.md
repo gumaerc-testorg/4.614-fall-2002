@@ -2,6 +2,7 @@
 content_type: resource
 description: The Mosque of Gurna, Egypt
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/2ccf9c1b3ddeb6bdea3afe57df37a6c2_2036thumbnail.jpg
+file_size: 15104
 file_type: image/jpeg
 image_metadata:
   caption: ''

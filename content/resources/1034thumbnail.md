@@ -4,6 +4,7 @@ description: 'The Masjid (or Musalla) of Bab Mardum, Toledo(ca. 999): A neighbor
   musalla with an open nine-bay plan and fa?ades which repeat the decorative program
   of the great mosque of Cordoba.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/33fd9a0b56d821f353522d161a8b6bae_1034thumbnail.jpg
+file_size: 26507
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -2,6 +2,7 @@
 content_type: resource
 description: Plan of the Original Mosque of Kufa after Creswell.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/666977ef593f22690621105a8dc616c8_3009thumbnail.jpg
+file_size: 22033
 file_type: image/jpeg
 image_metadata:
   caption: ''

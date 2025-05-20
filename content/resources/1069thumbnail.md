@@ -8,6 +8,7 @@ description: 'The Great Mosque and Hospital of Divrik (Divrigi): Established by 
   portals. This makes the entire structure a curious museum of the various Anatolian
   decorative styles of the period.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7fc9a55a38c0fd35dfacb6c1d01c4d3b_1069thumbnail.jpg
+file_size: 31923
 file_type: image/jpeg
 image_metadata:
   caption: ''

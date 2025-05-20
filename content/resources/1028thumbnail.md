@@ -7,6 +7,7 @@ description: Probably the most exquisite mosque of western Islamic land, founded
   double-tiered, arched supports, ribbed domes above the maqsura, and a unique mihrab-chamber
   with mosaic decoration.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/6ca0cf60e2caa48715825ec1869b5784_1028thumbnail.jpg
+file_size: 22468
 file_type: image/jpeg
 image_metadata:
   caption: ''

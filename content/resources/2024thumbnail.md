@@ -4,6 +4,7 @@ description: The Nuruosmaniye Mosque, Istanbul. Completed by Osman III in 1755, 
   is the first Baroque Ottoman mosque. Its prayer hall follows the rigid square, domed
   plan but its courtyard curves in a horseshoe form.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/63c492977267f87152e77f7202368d84_2024thumbnail.jpg
+file_size: 39590
 file_type: image/jpeg
 image_metadata:
   caption: ''
