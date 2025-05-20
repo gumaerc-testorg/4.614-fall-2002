@@ -3,6 +3,7 @@ content_type: resource
 description: 'Bostra (Bosra): A Syrian-Roman city and another capital of the Ghassanids;
   the illustration of urban splendor in the eyes of the Prophet Muhammad.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/c55d3909af364418eddda1d15c0bcfb1_5080thumbnail.jpg
+file_size: 26409
 file_type: image/jpeg
 image_metadata:
   caption: ''

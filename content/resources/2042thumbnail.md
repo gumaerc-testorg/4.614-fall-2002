@@ -7,6 +7,7 @@ description: The Corniche Mosque, Jedda, Saudi Arabia (1986). One of a series of
   but somewhat disturbing in their indifference toward the disparate, and sometimes
   clashing, traditions from which they were copied.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/c230d1266792bfe26549ce1ffadadf5c_2042thumbnail.jpg
+file_size: 35030
 file_type: image/jpeg
 image_metadata:
   caption: ''

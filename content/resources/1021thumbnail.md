@@ -8,6 +8,7 @@ description: 'Stucco Decoration, Samarra Style: the style tended towards the abs
   leaves grow. Style C: moulded pattern, very abstract with a combination of vegetal
   and geometric motifs. Patterns are normally inscribed within borders.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/cc0b6cd544a51cc55702ff0560c40731_1021thumbnail.jpg
+file_size: 26014
 file_type: image/jpeg
 image_metadata:
   caption: ''

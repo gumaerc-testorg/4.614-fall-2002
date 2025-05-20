@@ -2,6 +2,7 @@
 content_type: resource
 description: Masjid-i-Ta', Balkh, Afghanistan
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/1effd95984e511037a011cff118ccae5_1047thumbnail.jpg
+file_size: 21236
 file_type: image/jpeg
 image_metadata:
   caption: ''

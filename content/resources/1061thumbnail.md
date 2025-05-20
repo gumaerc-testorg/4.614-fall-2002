@@ -2,6 +2,7 @@
 content_type: resource
 description: The Great Mosque of Diyarbakir
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/9327ed7df53692e05cd04d2d220d7602_1061thumbnail.jpg
+file_size: 21054
 file_type: image/jpeg
 image_metadata:
   caption: ''

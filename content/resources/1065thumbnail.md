@@ -2,6 +2,7 @@
 content_type: resource
 description: The Madrasa of Nur al-Din at Damascus
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/55549488639df4237b43be2bf799c922_1065thumbnail.jpg
+file_size: 26643
 file_type: image/jpeg
 image_metadata:
   caption: ''

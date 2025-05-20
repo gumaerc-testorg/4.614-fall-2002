@@ -2,6 +2,7 @@
 content_type: resource
 description: The Mosque of Muhammad ibn Khairun at Qayrawan (866)
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/08a5273caf53890bde92d4e4b7bff95b_5025thumbnail.jpg
+file_size: 28420
 file_type: image/jpeg
 image_metadata:
   caption: ''

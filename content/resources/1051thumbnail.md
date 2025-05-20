@@ -4,6 +4,7 @@ description: 'Masjid-i-Jami,Nayin, Iran: (10th century), hypostyle; heavy cylind
   pillars; carved stucco decoration. Minaret is a transition between western minarets
   and later Iranian ones.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/5640868dc3656d830b0c7d1a9a90a681_1051thumbnail.jpg
+file_size: 24328
 file_type: image/jpeg
 image_metadata:
   caption: ''

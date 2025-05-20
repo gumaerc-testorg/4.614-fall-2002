@@ -9,6 +9,7 @@ description: 'The Mosque of Muhammad Ali Pasha, Cairo Citadel. Built between 183
   designed two mosques for Muhammad Ali: one in Alexandria and the Citadel mosque.
   Neither was ever built.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8fb6c08832543c686e57085349e0a260_2030thumbnail.jpg
+file_size: 40914
 file_type: image/jpeg
 image_metadata:
   caption: ''

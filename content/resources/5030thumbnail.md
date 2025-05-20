@@ -2,6 +2,7 @@
 content_type: resource
 description: Bosra
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f024716347b6724929a45356135542c3_5030thumbnail.jpg
+file_size: 32326
 file_type: image/jpeg
 image_metadata:
   caption: ''

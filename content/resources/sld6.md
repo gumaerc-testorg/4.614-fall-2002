@@ -2,6 +2,7 @@
 content_type: resource
 description: 'The Mashhad al-Juyyushi: View of the mashhad after the 1990''s restoration.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/3238b00a0f2fda52ccf7de97562659d3_SLD6.jpg
+file_size: 203921
 file_type: image/jpeg
 image_metadata:
   caption: 'The Mashhad al-Juyyushi: View of the mashhad after the 1990''s restoration.'

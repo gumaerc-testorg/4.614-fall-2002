@@ -4,6 +4,7 @@ description: The Sabil-Kuttab of Sultan Qaytbay (1479). The earliest stand-alone
   in Cairo, it establishes the type as a pietistic endowment in the urban milieu without
   it being attached to a larger religious complex.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/d6aeee058d5a5358d26ca9439a50fc07_1112thumbnail.jpg
+file_size: 29462
 file_type: image/jpeg
 image_metadata:
   caption: ''

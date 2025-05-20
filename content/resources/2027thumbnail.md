@@ -5,6 +5,7 @@ description: The Nusretiye Mosque, Istanbul (1822-26). Is built by Mahmut II, th
   name which means "victory." It is one of the most extreme examples of the rococo
   dominance in late Ottoman architecture.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8ff8f58ac166437cac5cc78cb257eaf0_2027thumbnail.jpg
+file_size: 55943
 file_type: image/jpeg
 image_metadata:
   caption: ''

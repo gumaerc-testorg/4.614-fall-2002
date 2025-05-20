@@ -5,6 +5,7 @@ description: H?davendigar Complex, Bursa (1366-86). A multiple iwan zawiya-mosqu
   organized it with the help of the ulema class (hence the madrasa) and introduced
   the Janissaries system.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7a5512541acd3d1bc8677cc0f79052d8_1126thumbnail.jpg
+file_size: 35748
 file_type: image/jpeg
 image_metadata:
   caption: ''

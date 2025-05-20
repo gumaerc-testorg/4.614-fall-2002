@@ -6,6 +6,7 @@ description: The Mosque of al-Rifai in Cairo. Begun in 1869 and designed in a ne
   of Sultan Hasan as an attempt of the Khedival family to measure up to the achievements
   of the Mamluks.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/456f572f9aa7237c1e8f37997c0fd959_2033thumbnail.jpg
+file_size: 5903
 file_type: image/jpeg
 image_metadata:
   caption: ''

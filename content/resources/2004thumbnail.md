@@ -4,6 +4,7 @@ description: 'The Masjid-i-Shah: The congregational 4-iwan mosque built between 
   and 1638 that marks the south of the Maydan with its magnificent portal flanked
   by two minarets and its dazzling tiled dome.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/cedb0fd77dd165d3d3358fa04335936d_2004thumbnail.jpg
+file_size: 38527
 file_type: image/jpeg
 image_metadata:
   caption: ''

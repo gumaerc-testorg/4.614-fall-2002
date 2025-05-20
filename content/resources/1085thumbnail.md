@@ -8,6 +8,7 @@ description: The Mausoleum of Sultan Olje?tu at Sultaniyya (1307-13). Intended a
   interior. The building shows the striving for verticality and the perfection of
   pre-existing traditions.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/5fd99492149434785ba5fb1170a4ff33_1085thumbnail.jpg
+file_size: 29954
 file_type: image/jpeg
 image_metadata:
   caption: ''

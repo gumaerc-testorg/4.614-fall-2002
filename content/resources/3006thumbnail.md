@@ -3,6 +3,7 @@ content_type: resource
 description: 'Minbar: A pulpit near the mihrab, from which the prayer leader gives
   the sermon on Fridays.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/dcae0cb515bdaadba4812e5cec8a6788_3006thumbnail.jpg
+file_size: 42384
 file_type: image/jpeg
 image_metadata:
   caption: ''

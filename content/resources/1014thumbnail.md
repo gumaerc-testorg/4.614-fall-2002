@@ -4,6 +4,7 @@ description: 'The Great Mosque of Samarra (Mosque of al-Mutawakkil): Founded by 
   al-Mutawakkil (847-61) is the largest mosque in the Islamic classical period (240
   by 156 m).'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/4006d5ed9e18ffcbe4ddd10e1d78ab06_1014thumbnail.jpg
+file_size: 20995
 file_type: image/jpeg
 image_metadata:
   caption: ''

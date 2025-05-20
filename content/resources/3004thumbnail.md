@@ -4,6 +4,7 @@ description: 'The Central-Dome Mosque: A Mosque in which the prayer hall''s spac
   is dominated by a central dome surrounded by smaller and lower semi-domes. It was
   introduced by the Ottomans in the 15th century.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/2615ad26298d6591fe1d07210f821d6a_3004thumbnail.jpg
+file_size: 37504
 file_type: image/jpeg
 image_metadata:
   caption: ''

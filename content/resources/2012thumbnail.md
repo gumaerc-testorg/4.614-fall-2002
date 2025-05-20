@@ -5,6 +5,7 @@ description: The Tomb of Itimad al-Dawla in Agra (1628). A low pavilion over a s
   at the four corners. This is the first monument to employ white marble and pietra
   dura.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/a60625a7358a469078bcde712907c672_2012thumbnail.jpg
+file_size: 34769
 file_type: image/jpeg
 image_metadata:
   caption: ''
