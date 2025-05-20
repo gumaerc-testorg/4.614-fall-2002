@@ -5,6 +5,7 @@ description: 'The Great Mosque of Dunaysir (Kochisar): Heavily influenced by the
   between Iranian, Classical, and Syrian traditions in the Medieval architecture of
   Upper Mesopotamia.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/0e8498f2c9dda06a38d97482747d69ce_1066thumbnail.jpg
+file_size: 19251
 file_type: image/jpeg
 image_metadata:
   caption: ''

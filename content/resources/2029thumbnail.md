@@ -6,6 +6,7 @@ description: The Dolmabah?e Mosque, Istanbul (1852-53). Is built by the first of
   columns. It, and the palace that gave it its name, are two examples of the strong
   influence of Western models in late Ottoman architecture.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/cbcb276e0893cf5fab795e6ae2437dc7_2029thumbnail.jpg
+file_size: 59497
 file_type: image/jpeg
 image_metadata:
   caption: ''

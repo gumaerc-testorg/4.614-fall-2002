@@ -2,6 +2,7 @@
 content_type: resource
 description: Detail of Medieval Islamic Architecture
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/95bec271f9b10431171b0232d252e86d_1055thumbnail.jpg
+file_size: 16346
 file_type: image/jpeg
 image_metadata:
   caption: ''

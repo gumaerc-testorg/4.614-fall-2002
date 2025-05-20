@@ -2,6 +2,7 @@
 content_type: resource
 description: The Ghiyathiyya Madrasa at Khargid
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/593ad5c8fee02e9081cc42cdda7e7b5d_1123thumbnail.jpg
+file_size: 26650
 file_type: image/jpeg
 image_metadata:
   caption: ''

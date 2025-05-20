@@ -2,6 +2,7 @@
 content_type: resource
 description: The Great Mosque of Qayrawan
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8b18f6101c29dc8932048a6de3e4bea0_1022thumbnail.jpg
+file_size: 20324
 file_type: image/jpeg
 image_metadata:
   caption: ''

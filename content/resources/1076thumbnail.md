@@ -6,6 +6,7 @@ description: 'The Mosque of Sultan al-Zahir Baybars in Cairo (1267-9): First roy
   are said to have been built with wood and marble taken from a Crusader''s church
   in Jaffa.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/befd001db33007b185eaab343992d935_1076thumbnail.jpg
+file_size: 24015
 file_type: image/jpeg
 image_metadata:
   caption: ''

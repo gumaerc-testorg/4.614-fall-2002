@@ -8,6 +8,7 @@ description: 'The Masjid-i Jomeh at Isfahan (9th century, 11th and 12th century)
   built in the early 12th century. It is the most cited example of the transformation
   from hypostyle plan to four-iwan plan.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8b431854467fd8fda2927a7b29ac0a3d_1059thumbnail.jpg
+file_size: 21863
 file_type: image/jpeg
 image_metadata:
   caption: ''

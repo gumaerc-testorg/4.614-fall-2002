@@ -4,6 +4,7 @@ description: The Mosque of Amir Qijmas al-Ishaqi (1479-81). One of the most exem
   qa'a-type mosques, it sits prominently at a major intersection on al-Darb al-Ahmar,
   the main ceremonial thoroughfare in Cairo.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/e7bf91df03860c278c3b7cf55bf2d482_3040thumbnail.jpg
+file_size: 60002
 file_type: image/jpeg
 image_metadata:
   caption: ''

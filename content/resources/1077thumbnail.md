@@ -6,6 +6,7 @@ description: 'The Complex of Sultan Qalawun in Cairo (1284-85): Contains a bimar
   The madrasa is a four-iwan type with a basilical organization in the qiblai wan.
   The Dome of the mausoleum echoes the octagonal plan of the Dome of the Rock.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fa1f51b3b9184b34229900ff3d1e79f5_1077thumbnail.jpg
+file_size: 23276
 file_type: image/jpeg
 image_metadata:
   caption: ''

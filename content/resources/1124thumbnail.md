@@ -2,6 +2,7 @@
 content_type: resource
 description: Isa Bey Mosque, Sel?uk
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/e56b16a95f4a78fe932c7ee26b6edad0_1124thumbnail.jpg
+file_size: 23041
 file_type: image/jpeg
 image_metadata:
   caption: ''

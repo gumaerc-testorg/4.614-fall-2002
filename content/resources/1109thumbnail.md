@@ -6,6 +6,7 @@ description: The Funerary-Religious Complex of Sultan Qaytbay (1472-74). Probabl
   stone dome with stellar patterns. (Image courtesy of the Fine Arts Library of the
   Harvard College Library.)
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/53ec5a34092e43c92565c9a75d96b8a5_1109thumbnail.jpg
+file_size: 27783
 file_type: image/jpeg
 image_metadata:
   caption: ''

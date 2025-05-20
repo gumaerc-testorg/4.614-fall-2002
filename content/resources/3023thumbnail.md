@@ -7,6 +7,7 @@ description: 'Madrasa of Sultan al-Salih Najm al-Din Ayyub (1243): first madrasa
   the founder was added shortly after the completion of the complex by Shajar al-Durr,
   his wife.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/383e52563e36a95214cd33ee56bc5f71_3023thumbnail.jpg
+file_size: 51296
 file_type: image/jpeg
 image_metadata:
   caption: ''

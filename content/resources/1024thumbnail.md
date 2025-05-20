@@ -2,6 +2,7 @@
 content_type: resource
 description: Vocabulary of Islamic Architecture
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f0d3b51a49da3c5c09c9f302833c2580_1024thumbnail.jpg
+file_size: 28831
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -4,6 +4,7 @@ description: 'The Hypostyle Mosque: Mosque in which the prayer hall is formed of
   of vertical supports, or columns, that can multiply indefinitely. Dominant type
   in the early period.'
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/a96b3adfc4037a93724e8032e0c494f1_3001thumbnail.jpg
+file_size: 43174
 file_type: image/jpeg
 image_metadata:
   caption: ''

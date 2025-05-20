@@ -6,6 +6,7 @@ description: The Gur-i-Amir Mausoleum in Samarqand (1404). Initially a religious
   complex, and a later madrasa abutted on its side. The double-shell dome achieves
   both an interior harmony and an exterior verticality.
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f280486e90265f788a38458643d620c3_1116thumbnail.jpg
+file_size: 23850
 file_type: image/jpeg
 image_metadata:
   caption: ''

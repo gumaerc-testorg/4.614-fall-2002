@@ -2,6 +2,7 @@
 content_type: resource
 description: The Tomb of Itimad al-Dawla in Agra
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/e74a776b43d4ee59e3cb54caacd548f0_2011thumbnail.jpg
+file_size: 22212
 file_type: image/jpeg
 image_metadata:
   caption: ''

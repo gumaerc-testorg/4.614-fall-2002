@@ -2,6 +2,7 @@
 content_type: resource
 description: Rusafa (Sergiopolis)
 file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/6fff0c959c613e624b601d8bc293a31a_5031thumbnail.jpg
+file_size: 27132
 file_type: image/jpeg
 image_metadata:
   caption: ''
