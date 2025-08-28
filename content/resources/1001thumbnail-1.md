@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Ka'ba in Mecca
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/4125a1dac6e88d53f69ac60a7781c1c1_1001thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/4125a1dac6e88d53f69ac60a7781c1c1_1001thumbnail.jpg
 file_size: 31844
 file_type: image/jpeg
 image_metadata:

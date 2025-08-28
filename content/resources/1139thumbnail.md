@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Central Dome Mosques Based on Six Supports
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/b3ac2c0e5ea4857f51a0bd7e968728dc_1139thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/b3ac2c0e5ea4857f51a0bd7e968728dc_1139thumbnail.jpg
 file_size: 20758
 file_type: image/jpeg
 image_metadata:

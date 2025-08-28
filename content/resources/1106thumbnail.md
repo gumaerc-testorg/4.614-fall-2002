@@ -3,7 +3,7 @@ content_type: resource
 description: 'The Khanqah of Sultan Faraj ibn Barquq:  (1400-11). A very symmetrical
   composition which contains a hypostyle mosque, cells for sufis, and two minarets
   and two carved stone qubbas, which are the largest stone domes in Cairo.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8ef533fd9041c7dcdf62e4af056574bf_1106thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8ef533fd9041c7dcdf62e4af056574bf_1106thumbnail.jpg
 file_size: 22078
 file_type: image/jpeg
 image_metadata:

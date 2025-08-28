@@ -3,7 +3,7 @@ content_type: resource
 description: '?? Serefeli Cami at Edirne (1438-47): Built by Murat II, it is a turning
   point in Ottoman architecture: a hypostyle mosque with a large, domed maqsura that
   dominates both the interior space and exterior profile of the mosque.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/eba7271939555f9eed8c35d5a2b47cec_1132thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/eba7271939555f9eed8c35d5a2b47cec_1132thumbnail.jpg
 file_size: 30630
 file_type: image/jpeg
 image_metadata:

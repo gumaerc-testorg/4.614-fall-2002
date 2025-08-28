@@ -3,7 +3,7 @@ content_type: resource
 description: 'The Khanqah of Sultan Baybars al-Jashankir (1307-10): a structure with
   a biaxial plan, this Khanqa had a mausoleum added on its qibla side. It contained
   rooms for the sufis aligned on its two longitudinal sides.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/d4dc1371c020cd4151a41f5c8c58aae8_1081thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/d4dc1371c020cd4151a41f5c8c58aae8_1081thumbnail.jpg
 file_size: 20881
 file_type: image/jpeg
 image_metadata:

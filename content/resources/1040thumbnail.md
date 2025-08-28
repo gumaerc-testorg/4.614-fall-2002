@@ -2,7 +2,7 @@
 content_type: resource
 description: Built by Badr al-Jamali, the commander of the armies (amir al-juyush,
   hence the name) in 1085 and identified as a mashhad (shrine).
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/008f99442f9bc87e7a22d1e4794339ce_1040thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/008f99442f9bc87e7a22d1e4794339ce_1040thumbnail.jpg
 file_size: 20915
 file_type: image/jpeg
 image_metadata:
