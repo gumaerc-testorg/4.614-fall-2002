@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Ribat of Susa, Tunisia
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/ce749d5002c12033667c77bd8b881777_1025thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/ce749d5002c12033667c77bd8b881777_1025thumbnail.jpg
 file_size: 20396
 file_type: image/jpeg
 image_metadata:

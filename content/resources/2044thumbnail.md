@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Edinbrugh, Scotland Great Mosque
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8b57012a70d5442c6d4ff1847b3b27db_2044thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/8b57012a70d5442c6d4ff1847b3b27db_2044thumbnail.jpg
 file_size: 10400
 file_type: image/jpeg
 image_metadata:

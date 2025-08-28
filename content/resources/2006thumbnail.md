@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/2a0a553f328808cd5dd39497c8ced75e_2006thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/2a0a553f328808cd5dd39497c8ced75e_2006thumbnail.jpg
 file_size: 43041
 file_type: image/jpeg
 image_metadata:

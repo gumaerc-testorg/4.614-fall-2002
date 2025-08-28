@@ -5,7 +5,7 @@ description: 'The Madrasa of Nur al-Din at Damascus (1167-68): A representative 
   by its tiered muqarnas dome. The madrasa type is believed to have been imported
   from the eastern Iranian realm of the Seljuqs and spread all over Syria and Anatolia
   in the twelfth century and Egypt in the thirteenth.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/e6618823feb613026bc0f73f825d63c2_1064thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/e6618823feb613026bc0f73f825d63c2_1064thumbnail.jpg
 file_size: 31084
 file_type: image/jpeg
 image_metadata:

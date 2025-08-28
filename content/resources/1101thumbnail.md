@@ -6,7 +6,7 @@ description: The Mosque of Sultan Hasan (1356-61). The most monumental of all Ca
   of the mosque. The huge portal is oriented to impress the viewer coming from the
   Citadel. Its minarets mark the beginning of the line of development of the 3-tiered
   Mamluk minarets.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/4bb88388988244fbdf24166f06bb65b0_1101thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/4bb88388988244fbdf24166f06bb65b0_1101thumbnail.jpg
 file_size: 34777
 file_type: image/jpeg
 image_metadata:

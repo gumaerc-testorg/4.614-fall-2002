@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Al-Azhar Mosque: The original mihrab of the mosque discovered in 1930''s.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/0e5046419338f33642739d59e0ed07af_SLD13.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/0e5046419338f33642739d59e0ed07af_SLD13.jpg
 file_size: 244035
 file_type: image/jpeg
 image_metadata:

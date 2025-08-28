@@ -4,7 +4,7 @@ description: The Church of Hagia Sofia (Ayasofia) (532-37). The edifice that mos
   affected the Ottoman architects and patrons as an object of admiration and probably
   imitation. Sinan is reported to have felt relieved only when he completed his dome
   of the Selimiye Mosque at Edirne which equaled the width of Ayasofia's dome.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f04097347711746dc0d9d156d1915be4_1133thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f04097347711746dc0d9d156d1915be4_1133thumbnail.jpg
 file_size: 5441
 file_type: image/jpeg
 image_metadata:

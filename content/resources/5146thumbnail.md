@@ -3,7 +3,7 @@ content_type: resource
 description: 'Tarik Khana Mosque, Damghan, Iran: (between 750-89): hypostyle, large
   axial nave, heavy cylindrical brick piers support elliptical, pointed arches; roof,
   barrel vaults.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fe1e843eaa78620ce047bfbb9582ee31_5146thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fe1e843eaa78620ce047bfbb9582ee31_5146thumbnail.jpg
 file_size: 25542
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Axonometric of the Prophet Mosque in Medina (after Creswell).
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7022b3d106c39b5bba7bbf17c684ef64_5024thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7022b3d106c39b5bba7bbf17c684ef64_5024thumbnail.jpg
 file_size: 26058
 file_type: image/jpeg
 image_metadata:

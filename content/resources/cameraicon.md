@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Navigational icon that links to images.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/3662e112e33acb28713c99debeb2e44b_cameraicon.gif
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/3662e112e33acb28713c99debeb2e44b_cameraicon.gif
 file_size: 195
 file_type: image/gif
 image_metadata:

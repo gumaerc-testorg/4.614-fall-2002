@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A caravan city turned imperial center with heavy Roman influences.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/68a862a2f574dd7631fb83090b83434d_1003thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/68a862a2f574dd7631fb83090b83434d_1003thumbnail.jpg
 file_size: 24936
 file_type: image/jpeg
 image_metadata:

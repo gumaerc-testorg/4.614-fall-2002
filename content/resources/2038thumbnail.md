@@ -5,7 +5,7 @@ description: The Great Mosque of Niono, Mali (1973). A community effort, supervi
   and enlarged several times, the last of which between 1969-73. It is seen as conserving
   the cultural identity via the use of traditional, vernacular forms and methods of
   construction.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/0f9314e5a3c264ec4a60ffa7237ed4c6_2038thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/0f9314e5a3c264ec4a60ffa7237ed4c6_2038thumbnail.jpg
 file_size: 6102
 file_type: image/jpeg
 image_metadata:
