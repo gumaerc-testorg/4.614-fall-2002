@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Minaret: A tower, circular, octagonal, or square in section, built next
   to or in a mosque, from which the Muslims are called to prayer.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7a2e2dc1403c28bc7f86af2d40cc7fa2_3007thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7a2e2dc1403c28bc7f86af2d40cc7fa2_3007thumbnail.jpg
 file_size: 54525
 file_type: image/jpeg
 image_metadata:

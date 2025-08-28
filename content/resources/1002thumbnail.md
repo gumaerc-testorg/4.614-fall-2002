@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Petra: The Nabatean capital carved in the rock with hybrid Hellenistic
   sensitivities.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/40ec25624d52fb49dce0923ac2add1bc_1002thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/40ec25624d52fb49dce0923ac2add1bc_1002thumbnail.jpg
 file_size: 28690
 file_type: image/jpeg
 image_metadata:

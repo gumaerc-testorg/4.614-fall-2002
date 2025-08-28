@@ -2,7 +2,7 @@
 content_type: resource
 description: The seat of Sassanian kings, the rulers of the second superpower of the
   time (other than Byzantium).
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/b4f7b3573a6414c63a976f99bfd3b3f2_1004thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/b4f7b3573a6414c63a976f99bfd3b3f2_1004thumbnail.jpg
 file_size: 21131
 file_type: image/jpeg
 image_metadata:

@@ -6,7 +6,7 @@ description: National Assembly Mosque, Ankara, Turkey (1987-89). A modernist pla
   all the traditional elements of Islamic architecture. The plexiglass mihrab adds
   an unusual symbolic touch by alluding to the notion of the mihrab as the gate to
   the luminous hereafter.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/abab8f02adc8d02d6e9aaf1f5388727e_5094thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/abab8f02adc8d02d6e9aaf1f5388727e_5094thumbnail.jpg
 file_size: 24600
 file_type: image/jpeg
 image_metadata:

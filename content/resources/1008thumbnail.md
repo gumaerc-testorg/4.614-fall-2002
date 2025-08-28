@@ -3,7 +3,7 @@ content_type: resource
 description: First imperial mosque built by Caliph al-Walid I (705-15), the son of
   Abd al-Malik. View of the Umayyad mosque form the west with the minaret of Qaytbay
   in front and the minaret of Jesus in the back.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/92662e3de1c3a62bc2958447030f1cd3_1008thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/92662e3de1c3a62bc2958447030f1cd3_1008thumbnail.jpg
 file_size: 22868
 file_type: image/jpeg
 image_metadata:

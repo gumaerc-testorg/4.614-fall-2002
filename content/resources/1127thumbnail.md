@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Hudavendigar Complex. (Image courtesy of Yasser Tabbaa.)
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7a6240f1f4b4978a9ebdc7897c09ee24_1127thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/7a6240f1f4b4978a9ebdc7897c09ee24_1127thumbnail.jpg
 file_size: 25781
 file_type: image/jpeg
 image_metadata:

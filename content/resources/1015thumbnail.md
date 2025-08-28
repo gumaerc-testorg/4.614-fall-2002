@@ -2,7 +2,7 @@
 content_type: resource
 description: 'The Malwiyya: the famous spiraling, free-standing minaret of the Great
   Mosque of Samarra. It was repeatedly compared to Mesopotamian Ziggurats.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fd77dffded781c5de24cbc0ea997c1ef_1015thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/fd77dffded781c5de24cbc0ea997c1ef_1015thumbnail.jpg
 file_size: 20637
 file_type: image/jpeg
 image_metadata:

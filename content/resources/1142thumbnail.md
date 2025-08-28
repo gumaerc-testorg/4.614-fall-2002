@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Central Dome Mosques Based on Eight Supports
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/677bdd4c19e99d0b306c71629713619a_1142thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/677bdd4c19e99d0b306c71629713619a_1142thumbnail.jpg
 file_size: 21022
 file_type: image/jpeg
 image_metadata:

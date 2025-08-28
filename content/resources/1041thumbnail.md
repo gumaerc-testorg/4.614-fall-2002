@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Al-Aqmar Mosque: A small masjid built in 1125 north of the caliphal
   palace.'
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f7996b6624266d99352d7d1336a080f4_1041thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/f7996b6624266d99352d7d1336a080f4_1041thumbnail.jpg
 file_size: 23136
 file_type: image/jpeg
 image_metadata:

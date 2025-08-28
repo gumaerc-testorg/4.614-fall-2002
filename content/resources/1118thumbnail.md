@@ -5,7 +5,7 @@ description: The Shah-i Zinda Complex in Samarqand (1360-1434). Named Shah-i Zin
   this funerary alley, dotted with exquisite domes built over 70 years for members
   of Timur's family, present the pinnacle of all the tile techniques known to the
   Timurids.
-file: /courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/1ab28bc642c5af2f2136fc46c469501c_1118thumbnail.jpg
+file: /ol-ocw-studio-app/courses/4-614-religious-architecture-and-islamic-cultures-fall-2002/1ab28bc642c5af2f2136fc46c469501c_1118thumbnail.jpg
 file_size: 21578
 file_type: image/jpeg
 image_metadata:
