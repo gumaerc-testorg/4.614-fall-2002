@@ -7,7 +7,7 @@ title: Image Credits
 uid: 8908d535-8bc0-1186-79ae-fe1d9a4e4986
 ---
 
-All images used for this course are courtesy of Nasser Rabbat or the {{% resource_link "26b0c9e4-8e41-4a34-95c9-55e401e540c0" "Aga Khan Program at MIT" %}}, with the exception of those listed below:
+All images used for this course are courtesy of Nasser Rabbat or the [Aga Khan Program at MIT](http://akpia.mit.edu/), with the exception of those listed below:
 
 {{< tableopen >}}
 {{< tropen >}}
