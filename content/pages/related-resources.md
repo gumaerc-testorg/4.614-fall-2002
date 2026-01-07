@@ -20,11 +20,11 @@ Archnet
 
 ArchNet is an online community for architects, planners, urban designers, landscape architects, and scholars, with a special focus on the Islamic world, and a large repository of images of Islamic art and architecture.
 
-{{% resource_link "6fc2c8bb-8e07-40f3-8b37-09b685336a9a" "Archnet" %}}
+[Archnet](http://www.archnet.org/)
 
 Aga Khan Program
 ----------------
 
 The Aga Khan Program for Islamic Architecture (AKPIA) is dedicated to the study of Islamic architecture and urbanism, visual culture, and conservation in an effort to respond to the cultural and educational needs of a diverse constituency drawn from all over the world. It's aim is to improve the teaching of Islamic art and architecture, promote excellence in professional research, and enhance the understanding of Islamic architecture and urbanism in light of contemporary theoretical, historical, critical and developmental issues. They also continually promote the visibility of pan-Islamic cultural heritage. Established in 1979, the Aga Khan Program for Islamic Architecture at Harvard University and the Massachusetts Institute of Technology is supported by an endowment from His Highness The Aga Khan.
 
-{{% resource_link "26b0c9e4-8e41-4a34-95c9-55e401e540c0" "Aga Khan Program at MIT" %}}
+[Aga Khan Program at MIT](http://akpia.mit.edu/)
